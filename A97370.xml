@@ -1,0 +1,954 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Constitutions and canons ecclesiastical treated upon by the archbishops and bishops and the rest of the clergy of Ierland [sic] and agreed upon with the Kings Majesties license in their synod begun at Dublin Anno Dom. 1634 and in the year of the reign of our sovereign Lord Charles ... King of Great Brittain, ... the tenth.</title>
+            <author>Church of Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97370</idno>
+            <idno type="STC">Wing C4098</idno>
+            <idno type="STC">ESTC R29961</idno>
+            <idno type="EEBO-CITATION">11228601</idno>
+            <idno type="OCLC">ocm 11228601</idno>
+            <idno type="VID">46940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1457:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Constitutions and canons ecclesiastical treated upon by the archbishops and bishops and the rest of the clergy of Ierland [sic] and agreed upon with the Kings Majesties license in their synod begun at Dublin Anno Dom. 1634 and in the year of the reign of our sovereign Lord Charles ... King of Great Brittain, ... the tenth.</title>
+                  <author>Church of Ireland.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Eton College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46940:11"/>
+            <pb facs="tcp:46940:12"/>
+            <p>Conſtitutions, AND CANONS ECCLESIASTICAL, Treated upon by the Archbiſhops, and Biſhops, and the reſt of the Clergy of IERLAND.</p>
+            <p>And agreed upon with the Kings Majeſties Licence in their Synod begun at <hi>Dublin Anno Dom.</hi> 1634. And in the year of the Reign of our Soveraign Lord <hi>CHARLES</hi> by the grace of God, King of Great <hi>Brittain, France</hi> and <hi>Ireland,</hi> the Tenth.</p>
+            <p>
+               <hi>And publiſhed for the due Obſervation of them, by His Majeſties Authority under the Great Seal of</hi> IRELAND.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the Kings moſt Excellent Majeſty, and are to be ſold by <hi>Samuel Dancer</hi> in <hi>Caſtle ſtreet.</hi> 1669.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:46940:13"/>
+            <pb facs="tcp:46940:13"/>
+            <head>THE TABLE Of the Church of <hi>Ireland.</hi>
+            </head>
+            <list>
+               <item>1. <hi>OF the agreement of the church of</hi> England <hi>and</hi> Ireland <hi>in the profeſſion of the ſame chriſtian Religion.</hi>
+               </item>
+               <item>2. <hi>The Kings ſupremacy in cauſes Eccleſiaſtical to be maintained.</hi>
+               </item>
+               <item>3. <hi>Of the Preſcript form of Divine ſervice contain<g ref="char:EOLhyphen"/>ed in the book of Common Prayer.</hi>
+               </item>
+               <item>4. <hi>Of the form of conſecrating and ordering Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops,</hi> &amp;c. <hi>and of the churches eſtabliſhed according to that order.</hi>
+               </item>
+               <item>5. <hi>Anthors of ſchiſmes and maintainers of con<g ref="char:EOLhyphen"/>venticles cenſured.</hi>
+               </item>
+            </list>
+            <list>
+               <head>¶ Of Divine Service, preaching of the Word, and Adminiſtration of the Sacraments.</head>
+               <item>6. <hi>D<g ref="char:V">Ʋ</g>e celebration of Sundayes and Holy-dayes.</hi>
+               </item>
+               <item>7. <hi>The preſcrip form of Divine ſervice to be uſed on ſundayes and holy-dayes, with all decency, and due reverence.</hi>
+               </item>
+               <item>8, <hi>Of the ordering of certain parts of the ſervice.</hi>
+               </item>
+               <item>9, <hi>Beneficed Preachers being reſident upon their liv<g ref="char:EOLhyphen"/>ings, to preach every ſunday.</hi>
+               </item>
+               <pb facs="tcp:46940:14"/>
+               <item>10. <hi>No publick oppoſition between Preac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers.</hi>
+               </item>
+               <item>11. <hi>Miniſters to Catechize every Sunday.</hi>
+               </item>
+               <item>12. <hi>The people to be informed in the body of Chri<g ref="char:EOLhyphen"/>ſtian Religion; and reformed in their converſation.</hi>
+               </item>
+               <item>13. <hi>Preachers and Lecturers to read Divine Ser<g ref="char:EOLhyphen"/>vice, and adminiſter the ſacraments twice a year at the leaſt.</hi>
+               </item>
+               <item>14. <hi>Miniſters not to refuſe to Chriſten or Bury.</hi>
+               </item>
+               <item>15. <hi>Miniſters not to defer chriſtening, if the child be in danger.</hi>
+               </item>
+               <item>16. <hi>Fathers not to be Godfathers in Baptiſm, nor children not communicants.</hi>
+               </item>
+               <item>17. <hi>Confirmation, or laying hands upon children, to be performed by the Biſhop once in three years.</hi>
+               </item>
+               <item>18. <hi>Of the receiving of the holy communion.</hi>
+               </item>
+               <item>19. <hi>Warning to be given before hand for the com<g ref="char:EOLhyphen"/>munion.</hi>
+               </item>
+               <item>20. <hi>Notorious offenders not to be admitted to the communion.</hi>
+               </item>
+               <item>21. <hi>Miniſters not to preach or adminiſter the com<g ref="char:EOLhyphen"/>munion in private houſes.</hi>
+               </item>
+               <item>22. <hi>Miniſters not to hold private conventicles.</hi>
+               </item>
+            </list>
+            <list>
+               <head>¶ Of Biſhops, Archdeacons, Deans, and Preben<g ref="char:EOLhyphen"/>daries.</head>
+               <item>23 OF <hi>Ordering Eccleſiaſtical Juriſdiction.</hi>
+               </item>
+               <item>24. <hi>Of ordering the revennes of Eccleſiaſtical perſons.</hi>
+               </item>
+               <item>25. <hi>Of Archdeacens.</hi>
+               </item>
+               <item>26. <hi>Reſidence of Deans in their Churches.</hi>
+               </item>
+               <item>27. <hi>Deans and Prebendaries to preach during their Reſidence.</hi>
+               </item>
+               <pb facs="tcp:46940:14"/>
+               <item>28. <hi>Prebendaries to be reſident upon their benefices.</hi>
+               </item>
+            </list>
+            <list>
+               <head>¶ Of the Ordination, function, and charge of Mi<g ref="char:EOLhyphen"/>niſters.</head>
+               <item>29. <hi>FOur ſolemn times appointed for the making of Miniſters.</hi>
+               </item>
+               <item>30. <hi>The titles of ſuch as are to be made Miniſters.</hi>
+               </item>
+               <item>31. <hi>The quality of ſuch as are to be made Miniſters.</hi>
+               </item>
+               <item>32. <hi>The examination of ſuch as are to be made Mi<g ref="char:EOLhyphen"/>niſters.</hi>
+               </item>
+               <item>33. <hi>Caution for Inſtitution of Miniſters into Bene<g ref="char:EOLhyphen"/>fices.</hi>
+               </item>
+               <item>34. <hi>Patrons of Eccleſiaſtical Benefices.</hi>
+               </item>
+               <item>35. <hi>Prevention of Symoniacal contract, in thoſe that are preſented by them.</hi>
+               </item>
+               <item>36. <hi>Small Pariſhes to be united and reſidence enjoyn<g ref="char:EOLhyphen"/>ed.</hi>
+               </item>
+               <item>37. <hi>Abſence of Beneficed men, and livings appro<g ref="char:EOLhyphen"/>priated to be ſupplyed by Curats that are allowed Preachers.</hi>
+               </item>
+               <item>38. <hi>None to be Curats but allowed by the Biſhop.</hi>
+               </item>
+               <item>39. <hi>Strangers not admitted to preach without Li<g ref="char:EOLhyphen"/>cence.</hi>
+               </item>
+               <item>40. <hi>Miniſters to confer with Recuſants.</hi>
+               </item>
+               <item>41. <hi>Miniſters to viſit the ſick.</hi>
+               </item>
+               <item>42. <hi>Soberneſs of converſation, and decency of ap<g ref="char:EOLhyphen"/>parel required in Miniſters.</hi>
+               </item>
+               <item>43. <hi>Of Conſecration of Churches.</hi>
+               </item>
+               <item>44. <hi>A Terrier of gleabe lands and other poſſeſſions belonging to Churches.</hi>
+               </item>
+               <item>45. <hi>Payment of Tythes.</hi>
+               </item>
+               <item>46. <hi>A Regiſtry to be kept of Chriſtnings, Weddings, and Burials.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:46940:15"/>
+            <list>
+               <head>¶ Of Marriages and divorces.</head>
+               <item>47. <hi>NOne to marry within the degrees prohibited.</hi>
+               </item>
+               <item>48. <hi>None to marry under XXI years without their Parents conſent.</hi>
+               </item>
+               <item>49. <hi>Security to be taken at the granting of ſuch Li<g ref="char:EOLhyphen"/>cences, and under what conditions.</hi>
+               </item>
+               <item>50. <hi>Oaths to be taken for the conditions.</hi>
+               </item>
+               <item>51. <hi>An exception for thoſe that are in Widowhood.</hi>
+               </item>
+               <item>52. <hi>Ministers not to marry any perſon without Bannes.</hi>
+               </item>
+               <item>53. <hi>No ſentence for divorce to be given upon the ſole confeſſion of the parties.</hi>
+               </item>
+               <item>54. <hi>No ſentence of divorce to be given but in open court.</hi>
+               </item>
+               <item>55. <hi>In all ſentences for divorce, bond to be taken for not marrying during each others life.</hi>
+               </item>
+            </list>
+            <list>
+               <head>¶ Of Eccleſiaſtical Courts, and Juriſdiction.</head>
+               <item>56. <hi>THe order of Juriſdictions to be kept.</hi>
+               </item>
+               <item>57. <hi>The reſtraint of double Quarrels upon the reſpite of Inſtitution.</hi>
+               </item>
+               <item>58. <hi>Inhibitions not to be granted without the ſub<g ref="char:EOLhyphen"/>ſcription of an Advocate.</hi>
+               </item>
+               <item>59. <hi>Inhibitions not to be granted until the Appeal be exhibited to the judge.</hi>
+               </item>
+               <item>60. <hi>Solemn denunciation of parties excommunicated.</hi>
+               </item>
+               <item>61. <hi>Notorious crimes and ſcandals to be certified into Eccleſiaſtical courts by preſentments.</hi>
+               </item>
+               <item>62. <hi>Schiſmaticks to be preſented.</hi>
+               </item>
+               <item>63. <hi>Not communicants at</hi> Eaſter, <hi>to be preſented.</hi>
+               </item>
+               <item>64. <hi>Miniſters may preſent.</hi>
+               </item>
+               <item>65. <hi>Miniſters and church-wardens not to be ſued for preſenting.</hi>
+               </item>
+               <pb facs="tcp:46940:15"/>
+               <item>66. <hi>church wardens not bound to preſent oftner than twice a year.</hi>
+               </item>
+               <item>67. <hi>Church wardens not to be troubled for not pre<g ref="char:EOLhyphen"/>ſenting oftner than twice a year.</hi>
+               </item>
+               <item>68. <hi>Convenient time to be aſſigned for framing pre<g ref="char:EOLhyphen"/>ſentments.</hi>
+               </item>
+               <item>69. <hi>None to be cited into Eccleſiaſtical courts by Proceſs of</hi> Quorum nomina.</item>
+               <item>70. <hi>Maturity required in proceeding.</hi>
+               </item>
+               <item>71. <hi>No ſentence of deprivation or depoſition to be prenounced against a Minister but by the Biſhop.</hi>
+               </item>
+               <item>72. <hi>No Act to be ſped but in open court.</hi>
+               </item>
+               <item>73. <hi>No court to have more than one Seal.</hi>
+               </item>
+               <item>74. <hi>Convenient places to be choſen for keeping of courts.</hi>
+               </item>
+               <item>75. <hi>Peculiar and inferiour courts to exhibit the o<g ref="char:EOLhyphen"/>riginal copies of Wills into the Biſhops Regiſtry.</hi>
+               </item>
+               <item>76. <hi>The quality and Oath of Judges and Surrogates.</hi>
+               </item>
+               <item>77. <hi>Proctors not to retain cauſes without the law<g ref="char:EOLhyphen"/>full aſſignment of the parties.</hi>
+               </item>
+               <item>78. <hi>Proctors prohibited the Oath</hi> in animam domi<g ref="char:EOLhyphen"/>ni ſui.</item>
+               <item>79. <hi>Proctors not to be clamorous in court.</hi>
+               </item>
+               <item>80. <hi>The Oath</hi> de calumniâ <hi>not to be refuſed.</hi>
+               </item>
+               <item>81. <hi>Abuſes to be reformed in Regiſters.</hi>
+               </item>
+               <item>82. <hi>A certain rateof fees to all Eccleſiaſtical Officers.</hi>
+               </item>
+               <item>83. <hi>A table of the rates of fees to be ſet up in, courts and Registries.</hi>
+               </item>
+               <item>84. <hi>The whole fees for ſhewing Letters of orders and other licences, due but once, in every Biſhops time.</hi>
+               </item>
+               <item>85. <hi>The number of Apparators reſtrained.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:46940:16"/>
+            <list>
+               <head>¶ Of Pariſh Clerks, Church wardeus, and School<g ref="char:EOLhyphen"/>maſters, and their ſeveral duties.</head>
+               <item>86. <hi>PAriſh clerks to be choſen by the Miniſter.</hi>
+               </item>
+               <item>87. <hi>The choice of church-wardens, and their ac<g ref="char:EOLhyphen"/>compt.</hi>
+               </item>
+               <item>88. <hi>The choice of Sidermen, and their joynt office with church-wardens.</hi>
+               </item>
+               <item>89. <hi>The old church-wardens to make their Preſent<g ref="char:EOLhyphen"/>ments before the new beſworn.</hi>
+               </item>
+               <item>90. <hi>The duty of church wardent touching ſuch per<g ref="char:EOLhyphen"/>ſons as are out of the church in the time of Gods worſhip on ſundayes and Holy dayes.</hi>
+               </item>
+               <item>91. <hi>Their duty touching thoſe perſons that are in the church at that time.</hi>
+               </item>
+               <item>92. <hi>To keep the church from being prophaned at all other times.</hi>
+               </item>
+               <item>93. <hi>To ſee churches and church yards kept in ſuffi<g ref="char:EOLhyphen"/>cient reparation</hi>
+               </item>
+               <item>94. <hi>To furniſh all churches with things neceſſary for the celebration of Divine ſervice, Preaching and adminiſtration of the ſacraments.</hi>
+               </item>
+               <item>95. <hi>To provide things ſitting for every communion, and to obſerve thoſe that come, or come not to the ſame.</hi>
+               </item>
+               <item>96. <hi>To provide a cheſt for Alms in every church.</hi>
+               </item>
+               <item>97. <hi>To aboliſh all monuments of ſuperſtition.</hi>
+               </item>
+               <item>98. <hi>None to teach ſchool without Licence, and cu<g ref="char:EOLhyphen"/>rates deſirous to teach to be licenced before others.</hi>
+               </item>
+               <item>99. <hi>The duty of ſchool masters.</hi>
+               </item>
+            </list>
+            <list>
+               <head>¶ Of the authority of the Synod.</head>
+               <item>100. <hi>The Authority of this National ſynod eſtabliſh<g ref="char:EOLhyphen"/>ed.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="royal_license">
+            <pb n="1" facs="tcp:46940:16"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+            <p>CHARLES by the Grace of God King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France</hi> and <hi>Ireland,</hi> Deſender of the faith, &amp;c. To all men to whom theſe preſents ſhall come, greeting. Whereas our Biſhops, Deans of our cathedral churches, Arch-deacons, chapters and colledges, and the reſt of the clergy within our Kingdom of <hi>Ireland,</hi> were ſummoned and called by vertue of our writs directed to the Arch-biſhops of the four ſeveral Provinces, and bearing date the four and twentieth day of <hi>May,</hi> in the teuth year of our Reign to appear before the ſaid Arch-biſhops in the cathedral church of St. <hi>Patricks Dublin</hi> upon the one and twentieth day of <hi>July</hi> then next enſuing, then and there to treat and conclude upon certain high and ur<g ref="char:EOLhyphen"/>gent affairs in the ſaid writs mentioned, who did thereupon at the time appointed, and in the ſaid cathedral church of <hi>St. Patricks</hi> aforeſaid, aſſemble themſelves and appear in convocation for that purpoſe, according to the tenor of the ſaid writs. And whereas we for divers urgent and weighty occaſions us thereunto mov<g ref="char:EOLhyphen"/>ing, of our eſpecial grace, certain knowledge, and meer motion, did by vertue of our prerogative royal and ſupream authority in
+<pb n="2" facs="tcp:46940:17"/>cauſes Eccleſiaſtical, give and grant by our Letters Patents under our Great Seal of <hi>Ireland</hi> bearing date the one and twentieth day of <hi>July</hi> in the teuth year of our Reign, full power and authority unto the ſaid Archbiſhops, Biſhops, Deans, Archdeacons, chapters, colledges and clergy of this Kingdom then aſſembled in convocation, in the ſaid cathedral church of <hi>St. Patrick,</hi> that they from time to time during the Parliament then begun at <hi>Dublin</hi> might confer, treat, conſult and conclude of and upon ſuch Articles, canons, Orders, Ordinances, Statutes and conſtitu<g ref="char:EOLhyphen"/>tions Eccleſiaſtical, as they ſhall think neceſſary, fit and convenient for the honour and ſervice of Almighty God, and augmentation of his divine worſhip, the rooting out of hereſies and errours out of the Vineyard of Chriſt, for the procuring of the good and quiet of the church and preſervation of good government in cauſes Eccleſiaſtical, and to the Juriſdiction of the church belonging, as alſo to make and ſet down ordinances and decrees to have ſuch force and effect as other canons and conſtitutions of the church have, and the ſame (our royal aſſent being there<g ref="char:EOLhyphen"/>unto firſt had and obtained) to ſet forth and publiſh freely and lawfully, and that as well the Archbiſhops and Biſhops, and all other inferiour perſons whom it may concern, ſhould yield due obedience thereunto, as in and by our ſaid letters Patents more at large it doth and may appear. Foraſmuch as the ſaid Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, Deans, Archdeacons, chapters and colledges with the reſt of the clergy of this Kingdom having met together at the time and place before mentioned, and then and there by vertue of our ſaid authority granted unto them, have treated of, concluded and agreed upon certain canons, orders, ordinances, and conſtitutions, to the end and purpoſe by Us limited and preſcribed unto them, and have thereupon offered and preſented the ſame unto Us, moſt humbly deſiring Us to give our royal aſſent unto their ſaid canons, orders, ordinances and conſtituti<g ref="char:EOLhyphen"/>ons, according to the form of a certain Statute or Act of Parlia<g ref="char:EOLhyphen"/>ment made in that behalf, and by our ſaid Prerogative royal, and ſupream authority in cauſes Eccleſiaſtical, to ratifie by our letters Patents under our Great Seal of <hi>Ireland,</hi> and to confirm the ſaid canons being one hundred in number, and contained in a book, Entituled, <hi>Conſtitutions</hi> and <hi>Canons Eccleſiaſtical,</hi> treated upon by
+<pb n="3" facs="tcp:46940:17"/>the Archbiſhops and Biſhops, and the reſt of the Clergy of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and agreed upon with the Kings Majeſties licence in their Synod begun at <hi>Dublin, Anno Domini</hi> 1634. and in the year of the Reign of our Soveraign Lord, <hi>CHARLES</hi> by the grace of God King of Great Brittain, <hi>France,</hi> and <hi>Ireland</hi> the Tenth, which book is remaining with <hi>John Forth</hi> Clerke of the upper houſe of <hi>Convocation.</hi> We of our Princely inclination and royal care for the maintenance of the preſent eſtate and government of the church of <hi>Ireland</hi> by the laws of this our Realm now ſetled and eſtabliſhed, having diligently with great contentment and com<g ref="char:EOLhyphen"/>fort read and conſidered of all theſe their ſaid canons, orders, ordinances and conſtitutions agreed upon, as is before expreſſed, and finding the ſame ſuch, as we are perſwaded will be very pro<g ref="char:EOLhyphen"/>fitable, not only to our elergy, but to the whole church of this our Kingdom; and to all the true members of it, (if they be well obſerved.) Have therefore for us our Heirs and lawfull Suc<g ref="char:EOLhyphen"/>ceſſors, of our eſpecial grace, certain knowledge and meer moti<g ref="char:EOLhyphen"/>on, by the advice and conſent of our right truſty and right well beloved couſin ànd Councellour, <hi>Thomas Viſecunt Wentworth</hi> our Deputy general of our ſaid Kingdom of <hi>Ireland,</hi> and Preſident of our council eſtabliſhed in the North parts of our Kingdom of <hi>England,</hi> given and by theſe preſents do give our royal aſſent ac<g ref="char:EOLhyphen"/>cording to the form of the ſaid Statute or Act of Parliament aforeſaid, to all and every the ſaid canons, orders, ordinances and conſtitutions, and all and every thing in them contained. And furthermore, we do not only by our ſaid Prerogative royal and ſupream authority in cauſes Eccleſiaſtical, ratifie, confirm and eſtabliſh by theſe our letters Patents the ſaid canons, orders, or<g ref="char:EOLhyphen"/>dinances and conſtitutions, and all and every thing in them con<g ref="char:EOLhyphen"/>tained, as is aforeſaid, but do likewiſe propound, publiſh, and ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aightly enjoyn and command by our ſaid authority, and by theſe our letters Patents the ſame to be diligently obſerved, exe<g ref="char:EOLhyphen"/>cuted, and equally kept by all our loving Subjects of this our Kingdom, in all points wherein they do, or may concern every or any of them; according to this our will and pleaſure hereby ſig<g ref="char:EOLhyphen"/>niſied and expreſſed. And that likewiſe for the better obſervation of them, every Miniſter, by what name or title ſoever he be called, ſhall in the Pariſh Church or chappel where he hath charge,
+<pb n="4" facs="tcp:46940:18"/>read all the ſaid canons, orders, ordinances and conſtitutions once every year, upon ſome Sundayes or Holy-dayes in the af<g ref="char:EOLhyphen"/>ternoon before divine ſervice; dividing the ſame in ſuch ſort, as that the one half may be read one day, and the other another day. The book of the ſaid canons to be provided at the charge of the Pariſh betwixt this, and the Feaſt of <hi>Eaſter</hi> next enſuing. Straightly charging and commanding all Archbiſhops, Biſhops, and all other that exerciſe any Eccleſiaſtical Juriſdiction within this Realm, every man in his place to ſee and procure (ſo much as in them lyeth) all and every of the ſame canons, orders, ordi<g ref="char:EOLhyphen"/>nances and conſtitutions to be in all points duly obſerved, not ſparing to execute the penalties in them ſeverally mentioned upon any that ſhall wittingly or wilfully break or neglect to obſerve the ſame, as they tender the honour of God, the peace of the Church, tranquillity of the Kingdom, and their duties and ſor<g ref="char:EOLhyphen"/>vice unto Us their King and Soveraign. In witneſs, &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:46940:18"/>
+            <head>Conſtitutions, AND CANONS ECCLESIASTICAL, Treated upon by the Archbiſhops, and Biſhops, and the reſt of the Clergy of <hi>Ireland;</hi> and agreed upon by the Kings Majeſties licence in their Synod begun and holden at <hi>Dublin, Anno Do<g ref="char:EOLhyphen"/>mini,</hi> 1634. and in the year of the Reign of our Soveraign Lord <hi>Charles</hi> by the Grace of God King of Great <hi>Brittain, France</hi> and <hi>Ireland</hi> the Tenth.</head>
+            <div n="1" type="section">
+               <head>I. <hi>Of the agreement of the Church of</hi> England <hi>and</hi> Ireland, <hi>in the pro<g ref="char:EOLhyphen"/>feſſion of the ſame Chriſtian Religion.</hi>
+               </head>
+               <p>FOR the manifeſtation of our agreement with the church of <hi>England</hi> in the confeſſion of the ſame chriſtian faith, and the doctrine of the Sacraments: We do receive and approve the book of Articles of Religion agreed upon by the Archbiſhops, and Biſhops, and the whole clergy in the convocation holden at <hi>London</hi> in the year of our Lord God, 1562. for the avoiding of diverſities of opinions, and for the eſtabliſhing of conſent touch<g ref="char:EOLhyphen"/>ing true Religion. And therefore if any hereafter ſhall affirm that any of thoſe Articles are in any part ſuperſtitious or erroneous,
+<pb n="6" facs="tcp:46940:19"/>or ſuch as he may not with a good conſcience ſubſcribe unto, let him be excommunicated, and not abſolved before he make a publick revocation of his errour.</p>
+            </div>
+            <div n="2" type="section">
+               <head>II. <hi>The Kings ſupremacy in cauſes Eccleſiaſtical to be maintained.]</hi>
+               </head>
+               <p>ALl Eccleſiaſtical perſons having cure of ſouls, and all other Preachers, and Readers of Divinity lectures, ſhall to the uttermoſt of their wit, knowledge and learning, purely and ſin<g ref="char:EOLhyphen"/>cerely (without any colour or diſſimulation) teach, manifeſt, open and declare, four times every year (at the leaſt) in their Sermons, and other collations and lectures; That all uſurped and ſorrain power, (foraſmuch as the ſame hath no eſtabliſh<g ref="char:EOLhyphen"/>ment nor ground by the law of God,) is for moſt juſt cauſes, taken away and aboliſhed: and that therefore no manner of obedience or ſubjection within his Majeſties Realms and Domi<g ref="char:EOLhyphen"/>nions, is due unto ſuch forreign power: but that the Kings pow<g ref="char:EOLhyphen"/>er within his Realm of <hi>Ireland,</hi> and all other his Dominions and Countries, is the higheſt power under God, to whom all men, as well Inhabitants, as born within the ſame, do by Gods laws, owe all loyalty and obedience, and to no other forreign power and potentate in the earth. And whoſoever ſhall hereafter main<g ref="char:EOLhyphen"/>tain, that the Kings-Majeſty hath not the ſame authority in cauſes Eccleſiaſtical, that the godly Kings had amongſt the Jews, and Chriſtian Emperours in the Primitive Church, or impeach in any part his Regal ſupremacy in the ſaid cauſes reſtored to the Crown, and by the laws of this Realm therein eſtabliſhed, let him be excommunicated, and not reſtored but only by the Arch<g ref="char:EOLhyphen"/>biſhop of the Province, after his repentance, and publick revo<g ref="char:EOLhyphen"/>cation of his errour.</p>
+            </div>
+            <div n="3" type="section">
+               <head>III. <hi>Of the preſcript form of Divine Service, contained in the book of Common Prayer.</hi>
+               </head>
+               <p>THat form of Liturgy or Divine Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vice, and no other, ſhall be uſed in any Church of this Realm, but that which is
+<pb n="7" facs="tcp:46940:19"/>eſtabliſhed by the law, and compriſed in the book of Common-Prayer, and adminiſtration of Sacraments. And if any one ſhall preach, or by other open words declare or ſpeak any thing in the derogation or deſpiſing of the ſaid book, or of any thing therein contained, let him be excommunicated, and not reſtored, until he repent, and publickly revoke his errour.</p>
+            </div>
+            <div n="4" type="section">
+               <head>IV. <hi>Of the form of conſecrating and ordering Archbiſhops, Biſhops,</hi> &amp;c. <hi>and of the churches eſtabliſhed according to that order.</hi>
+               </head>
+               <p>THat form of ordination, and no other, ſhall be uſed in this Church, but that which is contained in the book of Ordering Biſhops, Prieſts, and Deacons, allowed by au<g ref="char:EOLhyphen"/>thority, and hitherto practiſed in the Churches of <hi>England</hi> and <hi>Ireland.</hi> And if any ſhall affirm, that they who are conſecrated, or ordered according to thoſe rites, are not lawfully made, nor ought to be accounted either Biſhops, Prieſts, or Deacons; or ſhall deny that the Churches, eſtabliſhed under this government, are true Churches; or refuſe to joyn with them in chriſtian pro<g ref="char:EOLhyphen"/>feſſion, let him be excommunicated, and not reſtored until he repent and publickly revoke his errour.</p>
+            </div>
+            <div n="5" type="section">
+               <head>V. <hi>Authors of Schiſme, and maintainers of Conventicles cenſured.</hi>
+               </head>
+               <p>WHoſoever ſhall ſeparate themſelves from the communion of Saints, as it is approved by the Apoſtles rules in the Church of <hi>Ireland;</hi> and combine themſelves rogether in a new brotherhood; (accounting the chriſtians, who are conformable to the doctrine, government, rites and ceremonies of the Church of <hi>Ireland,</hi> to be prophane and unmeet for them to joyn with in chriſtian profeſſion) or ſhall affirm and maintain, that there are within this Realm other meetings, aſſemblies, or congregations, than ſuch as by the laws of this Land are held and allowed, which may rightly challenge to themſelves the name of true and lawful Churches, let him be excommunicated, and not reſtored until he repent and publickly revoke his errour.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="8" facs="tcp:46940:20"/>
+               <head>VI. <hi>Due celebration of Sundayes and Holy-dayes.</hi>
+               </head>
+               <p>ALl manner of perſons ſhall celebrate and keep the Lords day, commonly called Sunday, and other Holy-dayes, ac<g ref="char:EOLhyphen"/>cording to Gods holy will and pleaſure, and the orders of this Church; that is, in hearing the word of God read and taught in private and publick prayers, in acknowledging their offences to God, and amendment of the ſame, in reconciling themſelves charitably to their neighbours, where diſpleaſure hath been, in oftentimes receiving the Communion of the Body and Blood of Chriſt, in viſiting the poor and fick, uſing all godly and ſober con<g ref="char:EOLhyphen"/>verſation.</p>
+            </div>
+            <div n="7" type="section">
+               <head>VII. <hi>The preſcript form of Divine Service to be uſed on Sundayes and Holy<g ref="char:EOLhyphen"/>dayes, with all decency and due reverence.</hi>
+               </head>
+               <p>EVery Sunday and Holy-day, the Parſons, Vicars, and Curates, ſhall celebrate Divine Service, at convenient and uſual times of the day, and in ſuch place of every Church, as the Biſhop of the Dioceſs, or Eccleſiaſtical Ordinary of the place, ſhall think meet, for the largeneſs or ſtraitneſs of the ſame, ſo as the people may be moſt edified. All Miniſters likewiſe ſhall uſe and ob<g ref="char:EOLhyphen"/>ſerve the Orders: Rites, Ornaments and Ceremonies preſcribed in the book of Common prayer, and in the Act for Uniformity printed therewith, as well in reading the holy Scriptures, and ſaying of prayers, as in adminiſtration of the Sacraments; with<g ref="char:EOLhyphen"/>out either diminiſhing in regard of preaching, or in any other reſpect, or adding any thing in the matter or form thereof. And in Cathedral, and Collegiate Churches, all Deans, Maſters, and Heads of Collegiate Churches, Canons and Prebendaries, being Graduates, ſhall daily at the times both of Prayer and Preaching, wear with their Surplices, ſuch Hoods as are agreeable to their degrees. No man alſo ſhall cover his head in any Church or Chappel in the time of Divine Service, except he have ſome in<g ref="char:EOLhyphen"/>firmity,
+<pb n="9" facs="tcp:46940:20"/>in which caſe he may wear a night-cap or coiſe. Neither ſhall any perſon be otherwiſe at ſuch times buſied, than in quiet attendance to hear, marke, and underſtand that which is read, preached or miniſtred: uſing all ſuch reverent geſtures and actions, as by the book of Common Prayer are preſcribed in that behalf, and the commendable uſe of this Church received; and not departing out of the Church, during the time of Service and Sermon, without ſome urgent or reaſonable cauſe.</p>
+            </div>
+            <div n="8" type="section">
+               <head>VIII. <hi>Of the ordering of certain parts of the Service.</hi>
+               </head>
+               <p>ALſo the Miniſter reading the leſſons, Epiſtle and Goſpel, and the Ten commandements, and ſuch other parts of Divine ſervice, as do greatly tend to the edifying of the people; ſhall ſo place himſelt, and ſo turn him to the people, as they may beſt hearken thereunto, and be edified by the ſame. And every Be<g ref="char:EOLhyphen"/>neficiary and Curate, ſhall endeavour, that the confeſſion of ſinns and abſolution, and all the ſecond ſervice, (at or before the communion, to the Homily or Sermon) where the people all, or moſt, are Iriſh, ſhall be uſed in Engliſh, firſt, and after in Iriſh, if the Ordinary of the place, ſhall ſo think meet.</p>
+            </div>
+            <div n="9" type="section">
+               <head>IX. <hi>Beneficed P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eachers being reſident upon their livings, to preceh every Sunday.</hi>
+               </head>
+               <p>EVery beneficed man, allowed to be a Preacher, and reſiding on his benefice, having no lawful impediment, ſhall in his own cure, preach one Sermon every Sunday of the year: And therein he ſhall reach no vain opinions, no He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſies, nor Popiſh errors, diſagreeing from the Articles of Religion, generally re<g ref="char:EOLhyphen"/>ceived in the Churches of <hi>England</hi> and <hi>Ireland;</hi> nor any thing at all, whereby the people may be ſtirred up to the deſire of novelties or contention; but ſhall ſoberly and ſincerely divide the Word of truth, to the glory of God, and to the beſt edification of the people.</p>
+            </div>
+            <div n="10" type="section">
+               <pb n="10" facs="tcp:46940:21"/>
+               <head>X. <hi>No publick oppoſition between Preachers.</hi>
+               </head>
+               <p>IF any Preacher ſhall in the Pulpit, particularly or namely, of purpoſe, impugne or confute any doctrine delivered by any other Preacher in the ſame Church, or in any other near adjoyn<g ref="char:EOLhyphen"/>ing; or otherwiſe make any publick oppoſition unto him, before he hath acquainted the Biſhop of the Dioceſs therewith, and re<g ref="char:EOLhyphen"/>ceived order from him what to do in that caſe, (becauſe upon ſuch publick diſſenting and contradicting, there may grow much offence and diſquieting to the people;) the Church-wardens, or party grieved, ſhall forthwith ſignifie the ſame to the ſaid Biſhops, and not ſuffer the ſaid Preacher any more to occupy that place which he has once abuſed, except he faithfully promiſe to forbear all ſuch matter of contention in the Church, until the Biſhop hath taken further order therein: who ſhall with all convenient ſpeed ſo proceed therein, that publick ſatisfaction may be made in the congregation where the offence was given. Provided that if either of the parties offending, do appeal, he ſhall not be ſuffered to preach <hi>pendente lite.</hi>
+               </p>
+            </div>
+            <div n="11" type="section">
+               <head>XI. <hi>Miniſters to catechize every Sunday.</hi>
+               </head>
+               <p>EVery Parſon, Vicar, or Curate, upon every Sunday before Evening Prayer, ſhall for half an hour, or more, examine and inſtruct the youth and ignorant perſons of his Pariſh, in the Ten commandements, the Articles of the belief, and in the lords pray<g ref="char:EOLhyphen"/>er, and ſhall diligently hear, and inſtruct and teach them the cate<g ref="char:EOLhyphen"/>chiſme, ſet forth in the book of Common prayer. And all Fa<g ref="char:EOLhyphen"/>thers, Mothers, Maſters and Miſtreſſes, ſhall cauſe their children, Servants and Apprentiſes, which have not learned the catechiſm, to come to Church at the time appointed, obediently to hear, and to be ordered by the Miniſter, until they have learned the ſame. And if any Miniſter neglect his duty herein, let him be ſharply reproved upon the firſt complaint, and true notice there<g ref="char:EOLhyphen"/>of given to the Biſhop or Ordinary of the place. If after ſubmit<g ref="char:EOLhyphen"/>ting
+<pb n="11" facs="tcp:46940:21"/>himſelf, he ſhall wilſully offend therein again, let him be ſuſ<g ref="char:EOLhyphen"/>pended. If ſo the third time, there being little hope that he will be therein reformed, then excommunicated, and ſo remain until he will be reformed. And likewiſe if any of the ſaid Fa<g ref="char:EOLhyphen"/>thers, Mothers, Maſters or Miſtreſſes, children, ſervants or appren<g ref="char:EOLhyphen"/>tices ſhall neglect their duties, as the one ſort in not cauſing them to come, and the other in refuſing to learn, as aforeſaid, let them be ſuſpended (if they be not children) and if they ſo perſiſt by the ſpace of a moneth, let them be excommunicated. Neither ſhall the Miniſter admit any to be married, or to be Godfathers or God mothers, at the Baptiſm of any childe, or to receive the holy communion, before they can ſay the Articles of the belief, the Lords Prayer, and the commandements, in ſuch a language as they underſtand.</p>
+            </div>
+            <div n="12" type="section">
+               <head>XII. <hi>The People to be informed in the body of Chriſtian Religion, and re<g ref="char:EOLhyphen"/>formed in their converſation.</hi>
+               </head>
+               <p>FOr the better grounding of the People in the Principles of chriſtian Religion, We ordain, that the heads of the cate<g ref="char:EOLhyphen"/>chiſm, being divided into ſo many parts as there are Sundayes in the year, ſhall be explained to the people in every Pariſh church. In the handling whereof, the Miniſters and Curates are to uſe ſuch moderation, that they do not run into curious queſtions, or unneceſſary controverſies, but ſhortly declare, and confirm the doctrine propoſed, and make application thereof to the behoof of the hearers. The Miniſters alſo in all their preachings, and catechizings, and private conferences, when need requireth, ſhall teach the people to place their whole truſt and confidence in God, and not in creatures, neither in the Habit or Scapular of any Fryer, or in hallowed Beads, Medals, Reliques, or ſuch like trumperies. They ſhall do their endeavour likewiſe to root out all ungodly, ſuperſtitious, and barbarous cuſtoms; as uſing of charms, ſorcery, enchantments, witchcraſt, or ſooth ſaying; and generally to reſorm the manners of the people committed to their charge, unto a chriſtian, ſober, and civil converſation.</p>
+            </div>
+            <div n="13" type="section">
+               <pb n="12" facs="tcp:46940:22"/>
+               <head>XIII. <hi>Preachers and Lecturers to read Divine Service, and adminiſter the Sacraments twice a year at the leaſt.</hi>
+               </head>
+               <p>EVery Miniſter being poſſeſſed of a benefice, that hath cure and charge of Souls, although he chiefly attend to preaching and hath a Curate under him, to execute other duties, which are to be performed for him in the Church; and likewiſe every o<g ref="char:EOLhyphen"/>ther ſtipendary Preacher, that readeth any lecture, or catechizeth, or preacheth in any Church or Chappel, ſhall twice at the leaſt every year, read himſelf the Divine Service, upon two ſeveral Sundayes, publickly, and at the uſual times both in the forenoon and afternoon, in the Church which he ſo poſſeſſeth, or where he readeth, catechizeth, or preacheth; as is aforeſaid, and ſhall like<g ref="char:EOLhyphen"/>wiſe as often in every year adminiſter the Sacraments of Baptiſm (if there be any to be baptized) and of the Lords Supper, in ſuch manner and form, and with the uſe and obſervation of all ſuch Rites, Ornaments, and Ceremonies, as are preſcribed by the book of Common prayer, (and the Act for Uniformity printed therewith) in that behalf, which if he do not accordingly per<g ref="char:EOLhyphen"/>form, then ſhall he that is poſſeſſed of a benefice (as before) be ſuſpended, and he that is but a Reader, Preacher, or catechizer, be removed from his place by the Biſhop of the Dioceſs, until he or they ſhall ſubmit themſelves to perform all the ſaid duties, in ſuch manner and ſort, as before is preſcribed.</p>
+            </div>
+            <div n="14" type="section">
+               <head>XIV. <hi>Miniſters not to refuſe to Chriſten er bury.</hi>
+               </head>
+               <p>NO Miniſter ſhall refuſe or delay to chriſten any childe, ac<g ref="char:EOLhyphen"/>cording to the form of the book of Common prayer, that is brought to the Church to him on Sundayes or Holy-dayes to be chriſtened; or to bury any Corps, that is brought to the Church or church-yard, (convenient warning being given to him thereof before,) in ſuch manner as is preſcribed in the ſaid book of common prayer. And if he ſhall refuſe to chriſten the one, or bury the other, (except the party deceaſed were denounced
+<pb n="13" facs="tcp:46940:22"/>excommunicated <hi>majori excommunicatione,</hi> for ſome grievous and notorious crime, and no man able to teſtifie of his repentance,) he ſhall be ſuſpended by the Biſhop of the Dioceſs from his Mi<g ref="char:EOLhyphen"/>niſtery by the ſpace of three months.</p>
+            </div>
+            <div n="15" type="section">
+               <head>XV. <hi>Miniſters not to defer chriſtening, if the child be in danger.</hi>
+               </head>
+               <p>IF any Miniſter, being duely (without any manner of colluſion) informed of the weakneſs and danger of death of any Infant unbaptized in his Pariſh, and thereupon deſired to go or come to the place where the ſaid Inſant remaineth, to baptize the ſame, ſhall either wilfully refuſe ſo to do, or of groſs negligence ſhall ſo defer the time, as when he might conveniently have reſorted to the place, and have baptized the ſaid Infant, it dyeth through ſuch default unbaptized: The ſaid miniſter ſhall be ſuſpended for three months, and before his reſtitution, ſhall acknowledge his fault, and promiſe before his Ordinary, that he not wittingly in<g ref="char:EOLhyphen"/>curr the like again. Provided, that where there is a Curate or a Subſtitute, this conſtitution ſhall not extend to the Parſon or Vicar himſelf, but the Curate or Subſtitute preſent.</p>
+            </div>
+            <div n="16" type="section">
+               <head>XVI. <hi>Fathers not to be Godfathers in baptiſm, nor Children not communi<g ref="char:EOLhyphen"/>cants.</hi>
+               </head>
+               <p>NO Parent ſhall be urged to preſent, nor be admitted to anſwer as Godfather for his own child; nor any Godfather or Godmother ſhall be ſuffered to make any other anſwer or ſpeech, than by the book of Common Prayer is preſcribed in that behalf. Neither ſhall any perſon be admitted Godfather, or Godmother to any childe, at chriſtening or confirmation, be<g ref="char:EOLhyphen"/>fore the ſaid perſon ſo undertaking, hath received the holy com<g ref="char:EOLhyphen"/>munion.</p>
+            </div>
+            <div n="17" type="section">
+               <pb n="14" facs="tcp:46940:23"/>
+               <head>XVII. <hi>Confirmation, or laying hands upon children, to be performed by the Beſhop, once in three years.</hi>
+               </head>
+               <p>EVery Miniſter that hath cure and charge of Souls, for the better accompliſhing of the Orders preſcribed in the book or common prayer, concerning confirmation, ſhall take ſuch ſpe<g ref="char:EOLhyphen"/>cial care, as that none may be preſented to the Biſhop, for him to lay his hand upon, but ſuch as can render an account of their ſaith, according to the catechiſm in the ſaid book contained. The Biſhop alſo in his own perſon, every third year (at leaſt) in the time of his Viſitation, ſhall perform that duty of confir<g ref="char:EOLhyphen"/>mation; or if in that year, by reaſon of ſome infirmity, he be not able perſonally to viſit his Dioceſs, he ſhall not omit to do it the next year after, as he may conveniently. And whenſoever the time ſhall by him be aſſigned, every ſuch Miniſter ſhall uſe his beſt endeavour to prepare and make able, and likewiſe to procure as many as he can, to be then brought to be confirmed.</p>
+            </div>
+            <div n="18" type="section">
+               <head>XVIII. <hi>Of the receiving of the holy Communion.</hi>
+               </head>
+               <p>IN every Cathedral and Collegiate Church, at leaſt once every moneth, and in every Pariſh Church and Chappel, where Sa<g ref="char:EOLhyphen"/>craments are to be adminiſtred within this Realm, the holy com<g ref="char:EOLhyphen"/>munion ſhall be miniſtred by the Parſon, Vicar, or Miniſter, ſo often, and at ſuch times as every Pariſhioner may communicate at the leaſt thrice in the year, (whereof the Feaſt of <hi>Eaſter</hi> to be one) according as they are appointed by the book of common prayer. And that no miniſter when he celebrateth the commu<g ref="char:EOLhyphen"/>nion, ſhall wittingly adminiſter the ſame to any but ſuch as kneel: Provided that every miniſter as often as he adminiſtreth the com<g ref="char:EOLhyphen"/>munion, ſhall firſt receive the Sacrament himſelf. Furthermore, no bread, nor wine newly brought ſhall be uſed, but firſt the words of Inſtitution ſhall be rehearſed, when the ſaid bread and wine be preſented upon the communion Table. Likewiſe the miniſter ſhall deliver both the bread and wine to every commu<g ref="char:EOLhyphen"/>nicant, ſeverally.</p>
+            </div>
+            <div n="19" type="section">
+               <pb n="15" facs="tcp:46940:23"/>
+               <head>XIX. <hi>Warning to be given before hand for the Communion.</hi>
+               </head>
+               <p>WHereas every Lay perſon is bound to receive the holy communion thrice every year, and many notwithſtanding do not receive that Sacrament once in a year. We do require every miniſter to give warning to his Pariſhioners, publickly in the Church, at morning prayer the Sunday before every time of his adminiſtring the holy Sacrament, for the better preparation of themſelves. Which ſaid warning, we enjoyn the ſaid Pariſhio<g ref="char:EOLhyphen"/>ners to accept and obey under the penalty and danger of the law. And the miniſter of every Pariſh, and in Cathedral and Collegiate Churches, ſome principal miniſter of the Church, ſhall the afternoon, before the ſaid adminiſtration, give warning by tolling of the Bell, or otherwiſe, to the intent, that if any have any ſcruple of conſcience, or deſire the ſpecial miniſtery of re<g ref="char:EOLhyphen"/>conciliation, he may afford it to thoſe that need it. And to this end, the people are often to be exhorted, to enter into a ſpecial examination of the ſtate of their own ſouls: and that finding themſelves either extream dull, or much troubled in mind, they do reſort unto Gods miniſters, to receive from them as well ad<g ref="char:EOLhyphen"/>viſe and counſel for the quickning of their dead hearts, and the ſubduing of thoſe corruptions, whereunto they have been ſubject, as the benefit of abſolution likewiſe, for the quieting of their conſciences, by the power of the Keys, which Chriſt hath com<g ref="char:EOLhyphen"/>mitted to his miniſters for that purpoſe.</p>
+            </div>
+            <div n="20" type="section">
+               <head>XX. <hi>Notorious offenders not to be admitted to the Communion.</hi>
+               </head>
+               <p>NO miniſter ſhall in any wiſe admit to the receiving of the holy communion any of his cure, or flock, which be ope<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly known to live in ſin notorious, without repentance. Nor any who have maliciouſly and openly contended with their Neighbours, until they ſhall be reconciled. Nor any Church<g ref="char:EOLhyphen"/>wardens or Sidemen, who having taken their Oaths, to preſent to their Ordinaries all ſuch publick offences, as they are particular<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:46940:24"/>charged to inquire of in their ſeveral Pariſhes, ſhall notwith<g ref="char:EOLhyphen"/>ſtanding their ſaid Oaths, and that their faithful diſcharging of them is the chiefeſt means whereby publick ſins and offences may be reformed and puniſhed) wittingly and willingly, deſperately and irreligiouſly incurre the horrible crime of perjury, either in neglecting, or refuſing to preſent ſuch of the ſaid enormities and publick offence, as they know themſelves to be committed in their ſaid Pariſhes; or are notoriouſly offenſive to the Congrega<g ref="char:EOLhyphen"/>tion there, although they be urged by ſome of their Neighbours, or by their miniſter, or by their Ordinary himſelf, to diſcharge their conſciences by preſenting of them, and not to incur ſo deſ<g ref="char:EOLhyphen"/>perately the ſaid horrible ſin of perjury.</p>
+            </div>
+            <div n="21" type="section">
+               <head>XXI. <hi>Miniſters not to preach, or adminiſter the Communion in private houſes.</hi>
+               </head>
+               <p>NO Miniſter ſhall Preach, or adminiſter the Holy communion in any private houſe, except it be in times of neceſſity, when any being either ſo impotent, as he cannot go to the Church, or very dangerouſly ſick, are defirous to be partakers of that Holy Sacrament, under pain of ſuſpenſion for the firſt offence, and Excommunication for the ſecond. Provided, that houſes are here reputed for private houſes, wherein are no Chappels dedi<g ref="char:EOLhyphen"/>cated and allowed by the Eccleſiaſtical laws of this Realm. And provided alſo under the pain before expreſſed, that no Chaplains do preach, or adminiſter the Communion in any other places but in the Chappels of the ſaid houſes, and that alſo they do the ſame very ſeldome upon Sundays and Holy-days. So that both the Lords and maſters of the ſaid houſes, and their families, ſhall at other times reſort to their own Pariſh Churches, and there re<g ref="char:EOLhyphen"/>ceive the Holy Communion at the leaſt once every year.</p>
+            </div>
+            <div n="22" type="section">
+               <head>XXII. <hi>Miniſters not to hold private Conventicles.</hi>
+               </head>
+               <p>FOraſmuch as all Conventicles and ſecret meetings of Prieſts and Miniſters, have been ever juſtly accounted very hurtfull to the ſtate of the church wherein they live: We do now ordain
+<pb n="17" facs="tcp:46940:24"/>and conſtitute, that no Prieſts or miniſters of the word of God, nor any other perſons, ſhall meet together in any private houſe, or elſewhere, to conſult upon any matter or courſe to be taken by them, or upon their motion or direction by any other, which may any way tend to the impeaching or depraving of the Doctrine of the Church of <hi>Ireland,</hi> or of the Book of Common prayer, or of any part of the Government and Diſcipline now eſtabliſhed in the Church of <hi>Ireland,</hi> under pain of Excommunication.</p>
+            </div>
+            <div n="23" type="section">
+               <head>XXIII. <hi>Of Ordering Eccleſiaſtical Juriſdiction.</hi>
+               </head>
+               <p>NO Archbiſhop, Biſhop, or other perſon whatſoever, having Eccleſiaſtical Juriſdiction, ſhall appoint, conſtitute, make and confirm any Chancellor, Commiſſary, or Official for longer time than their own incumbency, except he be of the full age of twenty ſix years at leaſt, and one that is learned in the civil and eccleſiaſtical laws, and is at the leaſt a maſter of Arts, or Batche<g ref="char:EOLhyphen"/>lor of law, and is reaſonably well practiſed in the courſe thereof. Neither ſhall they let their Juriſdictions to farm, or grant, or confirm to any man, the next, ſecond, or third advowſon of any Prebend or Benefice, being in their gift. And if they ſhall make or confirm any ſuch Grant or Patent of the place of Chancellor, Commiſſary, or Official, for longer term than during their In<g ref="char:EOLhyphen"/>cumbency, to any that is not qualified, as is hereby required, then the ſaid perſon ſo accepting the ſaid Patent or Grant, is to be held and declared uncapable thereof, to all intents whatſoever. Laſtly, the ſaid Archbiſhops and Biſhops, ſhall provide, that the clergy and people be not burdened with unjuſt exactions by their ſervants and Officers in their Viſitations: And that neither the Archbiſh<g ref="char:EOLhyphen"/>ops therein, ſhall charge their Suffragans, nor the Biſhops their clergy, with any Noctials, or Refections, over and above their or<g ref="char:EOLhyphen"/>dinary procurations, (reſerving notwithſtanding unto the Arch<g ref="char:EOLhyphen"/>biſhops in their Viſitations, the Refections uſually heretofore re<g ref="char:EOLhyphen"/>ceived in thoſe Dioceſſes, where the ſame procurations are not received by them, which are yearly paid by the clergy unto their Biſhops.) And that no Archbiſhop, or Biſhop, ſhall demand from the Executors or Adminiſtrators of any of their clergy, any
+<pb n="18" facs="tcp:46940:25"/>Heriots or Mortuaries; as in ſome place of this Kingdom here<g ref="char:EOLhyphen"/>tofore hath been accuſtomed.</p>
+            </div>
+            <div n="24" type="section">
+               <head>XXIV. <hi>Of ordering the Revenues of Eccleſiaſtical perſons.</hi>
+               </head>
+               <p>NO Archbiſhop, Biſhop, Dean and Chapter, or Dignitary, ſhall in any wiſe diminiſh the ancient Revenues of their Sees, or Churches, nor alienate their Lands in Fee-farm, nor deſtroy their woods, nor give power to their Tenants to make waſt thereof, nor by any deviſe, demiſe their Menſal or Demeaſne Lands, unleſs it be to their Curates, actually diſcharging the ſaid cures, without forty days abſence in any one year, and to them for no longer time or term, than during their own Incumbency. Neither ſhall they joyn with any Dignitary, Prebend, or other Beneficiary or Beneficiaries to confirm the Leaſes or alienations, made or to be made, by him or them, of any Eccleſiaſtical profits or obventions. And the ſaid Archbiſhops, and Biſhops, ſhall carefully provide, that all Churches, Chancels, and Manſe houſes, the repair whereof properly belongeth to them, or any of them, or to any other Eccleſiaſtical perſon or perſons be from time to time preſerved from ruine and decay.</p>
+            </div>
+            <div n="25" type="section">
+               <head>XXV. <hi>Of Archdeacons.</hi>
+               </head>
+               <p>EVery Archdeacon which hath authority to viſit, either by common right, or by preſcription, ſhall viſit the precinct of his Juriſdiction, once every year, in his own perſon, and he ſhall not ſubſtitute any to be his Official, but ſuch a one as hath been brought up in the Univerſity, and hath ſtudied the civil law (if ſuch a one may be had) being able not only in learning, but alſo with gravity and modeſty to diſcharge that Office.</p>
+            </div>
+            <div n="26" type="section">
+               <pb n="19" facs="tcp:46940:25"/>
+               <head>XXVI. <hi>Reſidence of Deans in their Churches.</hi>
+               </head>
+               <p>EVery Dean, Maſter, or Warden, or chief Governor of any Cathedral or Collegiate Church, ſhall be reſident in his ſaid Cathedral or collegiate Church, fourſcore and ten days, <hi>conjunctim aut diviſim,</hi> in every year at leaſt, ſo that they have houſes, or ground to build houſes upon, belonging to their Churches; and then ſhall continue there in preaching of the word of God, and keeping good hoſpitality, (evcept he ſhall be otherwiſe letted with weighty and urgent cauſes, to be approved by the Biſhop of the Dioceſs.) And when he is preſent, he, with the reſt of the Canons or Prebendaries reſident, ſhall take ſpecial care, that the Statutes and laudable cuſtoms of their Church, (not being con<g ref="char:EOLhyphen"/>trary to the word of God, or Prerogative Royal) the Statutes of this Realm being in force concerning Eccleſiaſtical Orders, and all other conſtitutions, now ſet forth and confirmed by His Ma<g ref="char:EOLhyphen"/>jeſties Authority, and ſuch as ſhall be lawfully enjoyned by the biſhop of the Dioceſs in his Viſitation, according to the Statutes and cuſtoms of the ſame Church, or the Eccleſiaſtical Laws of this Realm, be diligently obſerved. And that the petty canons, Vicars chorals, and other Miniſters of their church, be urged to the ſtudy of the Holy Scriptures, and every one of them to have the New Teſtament, not only in Engliſh, but alſo in Latin.</p>
+            </div>
+            <div n="27" type="section">
+               <head>XXVII. <hi>Deans and Prebendaries to preach during their reſidence.</hi>
+               </head>
+               <p>THe Dean, Maſter, Warden, or other chief Governor, Pre<g ref="char:EOLhyphen"/>bendaries, and canons in every cathedral, and collegiate church, ſhall not only Preach there in their own perſons, ſo often as they are bound by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw, Statute, Ordinance, or cuſtome, but ſhall likewiſe preach in other churches of the ſame Dioceſs where they are reſident, and eſpecially in thoſe places, whence they, or their churches receive any yearly rents or profits. And in caſe they themſelves be ſick, or lawfully abſent, they ſhall ſubſtitute ſuch licenſed preacher to ſupply their turns, as by the biſhop of
+<pb n="20" facs="tcp:46940:26"/>the Dioceſs ſhall be thought meet to preach in cathedral churches. And if any other wiſe neglect or omit to ſupply his courſe, as is aforeſaid, the offender ſhall be puniſhed by the Biſhop, or by him or them, to whom the Juriſdiction of that church appertain<g ref="char:EOLhyphen"/>eth, according to the quality of the offence.</p>
+            </div>
+            <div n="28" type="section">
+               <head>XXVIII. <hi>Prebendaries to be reſident upon their benefices.</hi>
+               </head>
+               <p>NO Prebendaries, or canons in cathedral or collegiate Churches, having one or more benefices with cure, (and not being Reſidentaries in the ſame cathedral or collegiate Churches) ſhall under colour of the ſaid Prebends, abſent them<g ref="char:EOLhyphen"/>ſelves from their benefices; with cure, above the ſpace of one moneth in the year, unleſs it be for ſome urgent cauſe, and cer<g ref="char:EOLhyphen"/>tain time to be allowed by the Biſhop of the Dioceſs. And ſuch of the ſaid canons and prebendaries, as by the Ordinances of the ſaid cathedral or collegiate churches, do ſtand bound to be reſident in the ſame, ſhall ſo among themſelves ſort and pro<g ref="char:EOLhyphen"/>portion the times of the year, concerning reſidence to be kept in the ſaid Churches, as that ſome of them always ſhall be perſo<g ref="char:EOLhyphen"/>nally reſident there. And that all thoſe who be, or ſhall be Re<g ref="char:EOLhyphen"/>ſidentaries in any cathedral, or collegiate church, ſhall after the days of their reſidency, appointed by their local Statutes or cuſtoms, expired; preſently repair to their benefices, or ſome of them, or to ſome other charge where the Law requireth their preſence, there to diſcharge their duties, according to the law in that caſe provided. And the Biſhop of the Dioceſs ſhall ſee the ſame to be duly performed and put in execution.</p>
+            </div>
+            <div n="29" type="section">
+               <head>XXIX. <hi>Four ſolemn times appointed for the making of Miniſters.</hi>
+               </head>
+               <p>FOraſmuch as the ancient Fathers of the church, led by the examples of the Apoſtles, appointed Prayers and Feaſts to be uſed at the ſolemn ordering of Miniſters, and to that pur<g ref="char:EOLhyphen"/>poſe allotted certain times, in which, only ſacred Orders might be given or conferred. We following their holy and religious
+<pb n="21" facs="tcp:46940:26"/>example, do conſtitute and decree, that no Deacons or Miniſters be ordained and made, but only upon the Sundays, immediately following <hi>Jejunia quatuor temporum,</hi> commonly called Ember<g ref="char:EOLhyphen"/>weeks, appointed in ancient time for prayer and faſting, (pur<g ref="char:EOLhyphen"/>poſely for this cauſe at their firſt Inſtitution,) and ſo continued at this day in the church of <hi>Ireland:</hi> And that this be done in the cathedral or pariſh church, where the Biſhop reſideth, and in the time of Divine Service, in the preſence not only of the Arch<g ref="char:EOLhyphen"/>deacon, but of the Dean and two Prebendaries at the leaſt, or (if they ſhall happen by any lawfull cauſe to be let or hindered) in the preſence of four other grave perſons, being allowed for publick Preachers. And laſtly, that no perſon, of what quality or gifts ſoever, be made a Deacon and a Presbyter both together upon the ſame day.</p>
+            </div>
+            <div n="30" type="section">
+               <head>XXX. <hi>The titles of ſuch as are to be made Miniſters</hi>
+               </head>
+               <p>NO perſon ſhall be admitted into Sacred Orders, except he ſhall at that time exhibit to the Biſhop, of whom he de<g ref="char:EOLhyphen"/>ſireth impoſition of hands, a preſentation of himſelf: to ſome Eccleſiaſtical preferment, then void in that Dioceſs, or ſhall bring to the ſaid Biſhop, a true and undoubted certificate, that either he is provided of ſome church within the ſaid Dioceſs, where he may attend the cure of ſouls, or of ſome Miniſters place vacant, either in the cathedral church of that Dioceſs, or in ſome other collegiate church therein alſo ſcituate, where he may execute his Miniſtery, or that he is a Senior Fellow of ſome Colledge in the Univerſity, or except he be a Maſter of Arts of five years ſtand<g ref="char:EOLhyphen"/>ing, that liveth of his own charge in the Univerſity, or except by the Biſhop himſelf that doth ordain him Miniſter, he be ſhort<g ref="char:EOLhyphen"/>ly after to be admitted either to ſome Benefice or Curateſhip then void, not to be removed, until he be otherwiſe provided for; except by his notable evil carriage he deſerve the contrary. And if any Biſhop ſhall admit any perſon into the Miniſtery, that hath none of theſe Titles, as is aforeſaid, then he ſhall keep and maintain him with all things neceſſary, till he do prefer him to ſome Eccleſiaſtical living. And if the ſaid Biſhop ſhall refuſe ſo
+<pb n="22" facs="tcp:46940:27"/>to do, he ſhall be ſuſpended by his Archbiſhop, being aſſiſted with another Biſhop, from giving of Orders by the ſpace of a year.</p>
+            </div>
+            <div n="31" type="section">
+               <head>XXXI. <hi>The quality of ſuch as are to be made Miniſters.</hi>
+               </head>
+               <p>NO Biſhop ſhall hereafter admit any perſon into Sacred Or<g ref="char:EOLhyphen"/>ders, which is not of his own Dioceſs, except he be a gra<g ref="char:EOLhyphen"/>duate of ſome Univerſity within the Kings Dominions, or except he ſhall bring letters dimiſſory (ſo termed) from the Biſhop of whoſe Dioceſs he is; and deſiring to be a Deacon, is three and twenty years old, and to be a Presbyter four and twenty years compleat: and hath taken ſome degrees of School in ſome of the ſaid Univerſities, or at the leaſt, except he be able to yield an account of his faith in latin, (according to the Articles of Religion, generally received in the Church of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>) and to confirm the ſame by ſufficient teſtimonies out of the holy Scriptures. And except moreover he ſhall then exhibit letters Teſtimonial, or authentical certificate of his good life and converſation, under the Seal of ſome Colledge where before he remained, or of three or four grave Miniſters together, with the ſubſcription and teſtimony of other credible perſons, who have known his life and behaviour, by the ſpace of three years next before.</p>
+            </div>
+            <div n="32" type="section">
+               <head>XXXII. <hi>The examination of ſuch as are to be made Miniſters.</hi>
+               </head>
+               <p>THe Biſhop, before he admit any perſon to holy Orders, ſhall diligently examine him in the preſence of thoſe Miniſters that ſhall aſſiſt him at the Impoſition of hands. And if the ſaid Biſhop have any lawfull impediment, he ſhall cauſe the ſaid Mi<g ref="char:EOLhyphen"/>niſters carefully to examine every ſuch perſon, ſo to be ordered. Provided, that they who ſhall aſſiſt the Biſhop in examining and laying on of hands, ſhall be of his Cathedral Church, if they may conveniently be had, or other ſufficient Preachers of the ſame Dioceſs, to the number of three at the leaſt. And if any
+<pb n="23" facs="tcp:46940:27"/>biſhop or Suffragan, ſhall admit any toSacred Orders, who is not ſo qualified and examined, as before we have ordained, the Archbiſhop of that Province having notice thereof, and being aſſiſted by one biſhop, ſhall ſuſpend the ſaid biſhop or Suffragan ſo offending, from making either Deacons or Prieſts, for the ſpace of two years. Neither ſhall any perſon be received into the Miniſtery, nor admitted to any Eccleſiaſtical living, nor per<g ref="char:EOLhyphen"/>mitted to preach, read Lecture, catechize, or miniſter the Sacra<g ref="char:EOLhyphen"/>ments; except he ſhall firſt by ſubſcription declare his conſent to the firſt four Canons of this preſent Synod, and every thing contained therein.</p>
+            </div>
+            <div n="33" type="section">
+               <head>XXXIII. <hi>Caution for inſtitution of Miniſters into benefices.</hi>
+               </head>
+               <p>NO biſhop ſhall inſtitute any into a benefice, who hath been ordained by any other biſhop, except he firſt ſhew unto him his letters of Orders, and bring him a ſufficient teſtimony of his former good life and behaviour, if the biſhop ſhall re<g ref="char:EOLhyphen"/>quire it, and laſtly ſhall appear upon the due examination to be worthy of his miniſtry.</p>
+            </div>
+            <div n="34" type="section">
+               <head>XXXIV. <hi>Patrons of E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cleſiaſtical benefices.</hi>
+               </head>
+               <p>THe Biſhop ſhall earneſtly and diligently exhort Patrons of benefices to conſider the neceſſaries of the Churches, and to have before their eyes the laſt day of judgment, and the Tribu<g ref="char:EOLhyphen"/>nal ſeat of God: Therefore that they prefer no man to any Ec<g ref="char:EOLhyphen"/>cleſiaſtical living, but him which by doctrine, judgement, god<g ref="char:EOLhyphen"/>lineſs, honeſty and innocency of life, is able to bear ſo heavy a burthen, that they do nothing therein, but uprightly, uncorrupt<g ref="char:EOLhyphen"/>ly and truly: but if any Patron ſhall be convicted to have made any Symoniacal contract, either directly or indirectly, let him be excommunicated <hi>ipſo facto,</hi> not to be abſolved but alter publick penance, in the Cathedral Church, and the Church ſo Symonia<g ref="char:EOLhyphen"/>cally preſented unto.</p>
+            </div>
+            <div n="35" type="section">
+               <pb n="24" facs="tcp:46940:28"/>
+               <head>XXXV. <hi>Prevention of Symoniacal contracts in thoſe that are preſented by them.</hi>
+               </head>
+               <p>TO avoid the deteſtable ſin of Symony, becauſe buying and ſelling of Eccleſiaſtical functions, offices, promotions, digni<g ref="char:EOLhyphen"/>ties and livings is execrable before God, therefore the Arch<g ref="char:EOLhyphen"/>biſhop, and all, and every Biſhop or biſhops, or any other perſon or perſons, having authority to admit, inſtitute, collate, inſtall, or to confirm the election of any Archbiſhop, biſhop, or other perſon or perſons to any ſpiritual or Eccleſiaſtical function, dig<g ref="char:EOLhyphen"/>nity, promotion, title, office, juriſdiction, place, or benefice, with cure, or without cure, or to any Eccleſiaſtical living what<g ref="char:EOLhyphen"/>ſoever, ſhall before every ſuch admiſſion, inſtitution, collation, inſtallation, or confirmation of election, reſpectively miniſter to every perſon thereafter to be admitted, inſtituted, collated, in<g ref="char:EOLhyphen"/>ſtalled, or confirmed in or to any Archbiſhoprick or other ſpi<g ref="char:EOLhyphen"/>ritual or Eccleſiaſtical function, dignity, promotion, title, office, Juriſdiction, place, or benefice, with cure, or without cure, or in any Eccleſiaſtical living whatſoever, this oath in manner and form following, the ſame to be taken by every one whom it con<g ref="char:EOLhyphen"/>cerneth in his own perſon, and not by a Proctor. <hi>IN. N.</hi> do ſwear that I have made no Symoniacal payment, contract, or pro<g ref="char:EOLhyphen"/>miſe directly or indirectly, by my ſelf, or by any other to my knowledge or with my conſent, to any perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever, for or concerning the procureing and obtaining of this Ec<g ref="char:EOLhyphen"/>cleſiaſtical dignity, place, preferment, office or living, (reſpect<g ref="char:EOLhyphen"/>ively and particularly, naming the ſame whereunto he is admitted, inſtituted, collated, inſtalled, or confirmed) nor will at any time hereafter perform or ſatisfie any ſuch kind of payment, contract, or promiſe made by any other without my knowledge or conſent, ſo help me God through Jeſus Chriſt. And for the better ex<g ref="char:EOLhyphen"/>preſſing of this curſed abuſe, we ordain and appoint, that if any Clerk, or any other with his conſent ſhall Seal any bond or bill to any perſon or perſons, with condition of reſignation of his benefice, whereto he is to be, or hath been preſented, or ſhall make or covenant to make any Leaſe of the profits of the ſaid
+<pb n="25" facs="tcp:46940:28"/>benefice, or any part thereof unto the Patron or any belonging to him or any other perſon to his or their uſe, to continue during his Incumbency, or for above three years, or with notable dimi<g ref="char:EOLhyphen"/>nution of the rent under the true value, he ſhall be holden for convict of Symony, and proceeded againſt according to the ſeve<g ref="char:EOLhyphen"/>rity of the ancient Canons in that behalf.</p>
+            </div>
+            <div n="36" type="section">
+               <head>XXXVI. <hi>Small Pariſhes to be united, and Reſidence enjoyned.</hi>
+               </head>
+               <p>FOr remedy of the ſmalneſs of the maintenance of the Clergy, We ordain that when there is in one Pariſh a Rectory and Vicarage, or portion of Tythes collative, the biſhop ſhall unite them perpetually: And thoſe Unions the Deans and Chapters ſhall be bound to confirm to remain perpetually, as one entire benefice, and that no diſpenſations be granted to hold more than one benefice of greater value than forty pounds Engliſh per an<g ref="char:EOLhyphen"/>num: But to ſuch only as ſhall be very well able and ſufficient to diſcharge his duty, having taken the degree of a Maſter of Art at Jeaſt, in ſome Univerſity within His Majeſties Dominions, and being a publick and ſufficient Preacher licenced. Provided that he who is qualified as aforeſaid, ſhall alwayes reſide in one of his benefices, and ſome reaſonable time of every year in each of them. And laſtly, that he have under him, where he doth not reſide, a Curate able to catechize, and inſtruct the people, to have ſuch maintenance as to the Ordinary ſhall ſeem fit.</p>
+            </div>
+            <div n="37" type="section">
+               <head>XXXVII. <hi>Abſence of beneficed men, and livings appropriated to be ſupplyed by Curates that are allowed Preachers.</hi>
+               </head>
+               <p>EVery beneficed man licenced by the laws of this Realm (up<g ref="char:EOLhyphen"/>on urgent occaſions of other ſervice,) not to reſide upon his benefice, ſhall cauſe his Cure to be ſupplyed by a Curate that is a ſufficient, and licenced Preacher, if the worth of the bene<g ref="char:EOLhyphen"/>fice will bear it. But whoſoever hath two benefices, ſhall main<g ref="char:EOLhyphen"/>tain a Preacher licenced, in the benefice where he doth not re<g ref="char:EOLhyphen"/>ſide, except he preach himſelf at both of them uſually. Alſo
+<pb n="26" facs="tcp:46940:29"/>every beneficed man not allowed to be a Preacher, ſhall procure Sermons to be preached in his cure once every moneth at the leaſt, by Preachers lawfully licenced, if his living in the judg<g ref="char:EOLhyphen"/>ment of the Ordinary will be able to bear it. And upon every Sunday, when there ſhall not be a Sermon preached in his cure, he or his curate ſhall read one of the Homilies preſcribed by au<g ref="char:EOLhyphen"/>thority, to the intents aforeſaid. And as for thoſe Churches where all the Tythes both great and ſmall are taken by the Ap<g ref="char:EOLhyphen"/>propriator, we ordain that the biſhop of the Dioceſs, according to the laws of the Church, ſhall allot out of the ſaid appropria<g ref="char:EOLhyphen"/>tion, ſuch maintenance to a ſufficient curate, as in equity in his diſcreeion ſhall ſeem meet and competent.</p>
+            </div>
+            <div n="38" type="section">
+               <head>XXXVIII. <hi>None to be Curates but allowed by the Biſhop.</hi>
+               </head>
+               <p>NO Curate or Miniſter ſhall be permitted to ſerve in any place without examination, and tryal firſt to be made of his ſufficiency, ſobriety and fitneſs every way for the miniſtration, whereunto he is to be deputed. Having reſpect to the greatneſs of the cure, and meetneſs of the party. And being found wor<g ref="char:EOLhyphen"/>thy, he ſhall be admitted by the biſhop of the Dioceſs in writing under his hand and Seal. And the ſaid curates and miniſters, if they remove from one Dioceſs to another, ſhall not be by any means admitted to ſerve, without teſtimony of the biſhop of the Dioceſs or Ordinary of the place, as aforeſaid, whence they came, in writing, of their honeſty, ability and conformity to the Eccleſiaſtical Laws of the Church of <hi>Ireland.</hi> Nor any ſhall ſerve more than two Churches or chappels in one day, and thoſe to be in a convenient diſtance, and unleſs the ſaid Church or chappel, where ſuch a miniſter ſhall ſerve in two places, be not able in the judgment of the biſhop, or ordinary, as aforeſaid, to maintain a curate. Provided that no clergy-man, holding any benefice in title, ſhall by this conſtitution be debarred from nominating an able curate to ſuch benefice, ſo often as the ſaid cure ſhall be void, to be examined and admitted by the biſhop as aforeſaid.</p>
+            </div>
+            <div n="39" type="section">
+               <pb n="27" facs="tcp:46940:29"/>
+               <head>XXXIX. <hi>Strangers not admitted to preach without licence.</hi>
+               </head>
+               <p>NEither the Miniſter, Church-wardens, or other Officers of any parochial or collegiate church, ſhall ſuffer any ſtranger to preach unto the people in their churches, except they know him to be ſufficiently authoriſed thereto, as is aforeſaid. And if any in his Serm on ſhall publiſh any doctrine, either ſtrange, or diſagreeing from the word of God, or from the Articles of Re<g ref="char:EOLhyphen"/>ligion generally received in the churches of <hi>England</hi> and <hi>Ireland,</hi> they ſhall by their letters ſubſcribed with ſome of their hands that heard him, ſo ſoon as may be, give notice of the ſame to the biſhop of the Dioceſs, that he may determine the matter, and take ſuch order therein as he ſhall think convenient.</p>
+            </div>
+            <div n="40" type="section">
+               <head>XL. <hi>Miniſters to confer with Recuſants.</hi>
+               </head>
+               <p>EVery Miniſter being a Preacher, and having any Popiſh Re<g ref="char:EOLhyphen"/>cuſant or Recuſants in his Pariſh, (and thought fit by the biſhop of the Dioceſs,) ſhall labour diligently with them from time to time, thereby to reclaim them from their errors. And if he be not a Preacher, or not ſuch a Preacher; then he ſhall procure, (if he can poſſible,) ſome that are Preachers ſo quali<g ref="char:EOLhyphen"/>fied, to take pains with them for that purpoſe. If he can pro<g ref="char:EOLhyphen"/>cure none, then he ſhall inform the Biſhop of the Dioceſs there<g ref="char:EOLhyphen"/>of, who ſhall not only appoint ſome neighbour Preacher, or Prea<g ref="char:EOLhyphen"/>chers adjoyning to take that labour upon them: but himſelf alſo (as his important affairs will permit him,) ſhall uſe his beſt endeavour by inſtruction, perſwaſion, and all good means he can deviſe, to reclaim both them, and all other within his Dioceſs ſo affected.</p>
+            </div>
+            <div n="41" type="section">
+               <pb n="28" facs="tcp:46940:30"/>
+               <head>XLI. <hi>Miniſters to viſit the ſick.</hi>
+               </head>
+               <p>WHen any perſon is dangerouſly ſick in any Pariſh, (al<g ref="char:EOLhyphen"/>though they have not formerly reſorted to the church,) the miniſter or curate, having knowledge thereof, ſhall reſort un<g ref="char:EOLhyphen"/>to him or her; (if the diſeaſe be not known or probably ſuſ<g ref="char:EOLhyphen"/>pected to be infectious,) to inſtruct and comfort them in their diſtreſs, according to the order of the communion book, if he be no Preacher: Or if he be a Preacher, then as he ſhall think moſt needfull and convenient. And when any is paſſing out of this life, a bell ſhall be tolled, and the miniſter ſhall not then ſlack to do his laſt duty. And after the parties death, (if ſo it fall out,) there ſhall be rung no more but one ſhort peal, and one other before the burial, and one after the burial.</p>
+            </div>
+            <div n="42" type="section">
+               <head>XLII. <hi>Soberneſs of converſation, and decency of apparel required in Mi<g ref="char:EOLhyphen"/>niſters.</hi>
+               </head>
+               <p>NO Eccleſiuſtical perſons ſhall at any time, other than for their honeſt neceſſities, ſo much as reſort to any Taverns or Alehouſes, neither ſhall they board or lodge in any ſuch places. Further more they they ſhall not give themſelves to any baſe or ſervile labour, or to drinking, or ryot, ſpending their time idlely by day or by night, nor ſhall they give themſelves to playing at dice, cards, or tables, or any other game unbeſeeming their function; but at all times convenient they ſhall hear or read ſomewhat of the holy Scriptures, or ſhall occupy themſelves with ſome other honeſt ſtudy or exerciſe, alwayes doing the things which ſhall appertain to honeſty, and endeavouring to pro<g ref="char:EOLhyphen"/>fit the church of God, having alwayes in mind that they ought to excell others in purity of life, and ſhould be examples to the people to live well and chriſtianly, under pain of Eccleſi<g ref="char:EOLhyphen"/>aſtical cenſures to be inflicted with ſe verity according to the qualities of their offences. We do likewiſe conſtitute and ap<g ref="char:EOLhyphen"/>point, that Archbiſhops and Biſhops ſhall not intermit to uſe the
+<pb n="29" facs="tcp:46940:30" rendition="simple:additions"/>accuſtomed apparel of their degrees. Likewiſe all Deans, Maſt<g ref="char:EOLhyphen"/>ers of Colledges, Archdeacons, and Prebendaries in cathedral and collegiate churches, (being Prieſts or Deacons) Doctors in Divinity, Law, and Phyſick, Bachellors in Divinity, Maſters of Arts, and bachellors of law, having any Eccleſiaſtical living, ſhall uſually wear Gowns with ſlanding-collars, and ſleeves ſtreight at the hands; or wide ſleeves, as is uſed in the Univerſities, with Hoods, or Tippets of ſilk or ſarcener, and ſquare caps in places and times convenient. And that all other miniſters, admitted or to be admitted into that function, ſhall alſo uſually wear the like apparell as is aforeſaid, except Tippets only. We do fur<g ref="char:EOLhyphen"/>ther in like manner ordain, that all the ſaid Eccleſiaſtical perſons above mentioned ſhall uſually wear in their journeys, Cloaks with ſleeves, commonly called Prieſts-cloaks, without guards, welts, long buttons, or cuts. And no Eccleſiaſtical perſons ſhall wear any coyſe, or wrought night-cap, but only plain night-caps of black ſilk, Sattin, or Velvet. In all which particulars con<g ref="char:EOLhyphen"/>cerning the apparel here preſcribed, our meaning is to attribute any holineſs, or ſpecial worthineſs to the ſaid Garments, but for decency, gravity and order. In private houſes, and in their ſtudies, the ſaid perſons Eccleſiaſtical may uſe any comely and Schollarlike apparel. Provided that it be not cut or pinkt, and that in publick they go not in their Dublet and hoſe without coats, or caſſocks: And alſo that they wear not any light colour<g ref="char:EOLhyphen"/>ed Stockings.</p>
+            </div>
+            <div n="43" type="section">
+               <head>XLIII. <hi>Of conſecrating of Churches.</hi>
+               </head>
+               <p>AS often as Churches are newly built, where formerly there were not, or Church yards appointed for burial, they ſhall be dedicated and conſecrated. Provided that the ancient churches and church-yards, ſhall not be put to any baſe and un<g ref="char:EOLhyphen"/>worthy uſe.</p>
+            </div>
+            <div n="44" type="section">
+               <pb n="30" facs="tcp:46940:31"/>
+               <head>XLIV. <hi>A Terrier of Gleabe-lands, and other poſſeſſions belonging to Church<g ref="char:EOLhyphen"/>es.</hi>
+               </head>
+               <p>WE ordain that the Archbiſhops and all Biſhops within their ſeveral Dioceſſes, ſhall procure, as much as in them lyeth, that a true note and Terrier of all the Lands, Gleabes, Meadows, Gardens, Orchards, Houſes, Stocks, Implements, Te<g ref="char:EOLhyphen"/>nements and portions of Tythes, and all rights whatſoever, which are in poſſeſſion, or of right do belong to their ſeveral Sees, or to any dignity, Parſonage, or Vicarage, or rural Prebend, with<g ref="char:EOLhyphen"/>in any of their Dioceſſes, be taken by the view of honeſt men in every Pariſh, by the appointment of the ſaid Archbiſhops or Biſhops whereof the Miniſter to be one, and be laid up in their ſeveral Regiſtries to the uſe of poſterity. And the Archbiſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps and biſhops ſhall in their Viſitations carefully provide, that this canon be obſerved, and that the ſaid Terrier be renewed every ten years. And no miniſter ſhall make a leaſe of his Gleabe<g ref="char:EOLhyphen"/>lands, or of his benefice, or the profits or means thereof, above the term of three years at the uttermoſt, ſaving unto all Paten<g ref="char:EOLhyphen"/>tees from His Majeſtie ſuch power as is, or he eaſter ſhall be granted to them in their Patents, to demiſe their Gleabe or any part thereof.</p>
+            </div>
+            <div n="45" type="section">
+               <head>XLV. <hi>Payment of Tythes.</hi>
+               </head>
+               <p>FOraſmuch as every man is bound to pay his Tythes, no man ſhall by colour of duty omitted by their Curates, detain their Tythes, and ſo requite one wrong with another, or be his own judge; but ſhall truly pay the ſame, as hath been ac<g ref="char:EOLhyphen"/>cuſtomed, to their Parſons, Vicars and Curates, without any re<g ref="char:EOLhyphen"/>ſtraint or diminution. And for ſuch lack and default, as they can juſtly find, in their Parſon, Vicars and Curates, they ſhall ſeek for reformation to their Ordinaries, and other Superiors; who upon complaint and due reproof thereof, ſhall reform the ſame accordingly.</p>
+            </div>
+            <div n="46" type="section">
+               <pb n="31" facs="tcp:46940:31"/>
+               <head>XLVI. <hi>A Regiſtry to be kept of Chriſtnings, Weddings, and burials.</hi>
+               </head>
+               <p>IN every Pariſh church and chappel within this Realm, ſhall be provided one parchment book, at the charge of the Pariſh, wherein ſhall be written, the day and year of every chriſtning, wedding, and burial, which ſhall be in the Pariſh, from the time that this canon ſhall be eſtabliſhed. And for the ſafe keeping of the ſaid book, the Church-wardens, at the charge of the Pariſh, ſhall provide one ſure coffer, with three locks and keys, whereof the one to remain with the miniſter, and the other two with the church-wardens ſeveral: So that neither the miniſter without the church-wardens, nor the church-wardens without the miniſt<g ref="char:EOLhyphen"/>er, ſhall at any time take that book out of the ſaid coffer. And henceforth, upon every Sabbath-day, immediately after morning, and evening prayer, the miniſter and church-wardens, ſhall take the ſaid parchment book out of the ſaid coffer: And the miniſt<g ref="char:EOLhyphen"/>er in the preſence of the church-wardens ſhall write and Record in the ſaid book, the names of all perſons chriſtned, together with the names and ſurnames of their Parents, and alſo the names of all perſons, married and buried in that pariſh the week before, by the miniſter or his curate, and the day and the year of every ſuch chriſtening, marriage and burial. And that done, they ſhall lay up the book in the coffer, as before. And the miniſter, and churchwardens, unto every page of that book, (when it ſhall be filled with ſuch inſcriptions) ſhall ſubſcribe their names. And the churchwardens, ſhall once every year within one moneth after the 25. day of <hi>March,</hi> tranſmit unto the biſhop of the Dioceſs, or his chancellor, a true copy of the names of all perſons chriſtened, married, or buried, in their pa<g ref="char:EOLhyphen"/>riſh in the year before (ended the ſaid 25. day of <hi>March,</hi>) and the certain dayes and moneths, in which every ſuch chriſtening, marriage and burial was had, to be ſubſcribed with the hands of the ſaid miniſter and churchwardens, to the end the ſame may faithfully be preſerved in the Regiſtry of the ſaid biſhop, which certificate ſhall be received without Fee. And if the miniſter or churchwardens ſhall be negligent in the performance of any thing
+<pb n="32" facs="tcp:46940:32"/>herein contained, it ſhall be lawful for the Biſhop, or his chancel<g ref="char:EOLhyphen"/>lor to convent them, and proceed againſt every of them, as con<g ref="char:EOLhyphen"/>temners of this our conſtitution.</p>
+            </div>
+            <div n="47" type="section">
+               <head>XLVII. <hi>None to marry within the degrees prohibited.</hi>
+               </head>
+               <p>NO perſons ſhall marry within the degrees prohibited by the laws of God, and expreſſed in a Table ſet forth by au<g ref="char:EOLhyphen"/>thority in <hi>England,</hi> in the year of our Lord God 1563. And all marriages ſo made and contracted, ſhall be adjudged inceſtuous and unlawfull, and conſequently ſhall be diſſolved, as void from the beginning. And the parties ſo married, ſhall be by courſe of law ſeparated. And the aforeſaid Table ſhall be in every Church publickly ſet up, and fixed at the charge of the Pariſh.</p>
+            </div>
+            <div n="48" type="section">
+               <head>XLVIII. <hi>None to marry under XXI. years without their Parents conſent.</hi>
+               </head>
+               <p>NO children under the age of XXI. years compleat, ſhall contract themſelves, or marry without the conſent of their Parents, or of their Guardians and Governours, if their Parents be deceaſed.</p>
+            </div>
+            <div n="49" type="section">
+               <head>XLIX. <hi>Security to be taken at the granting of ſuch licences, to marry with<g ref="char:EOLhyphen"/>out publication of banns, and under what conditions.</hi>
+               </head>
+               <p>THe ſecurity mentioned ſhall contain theſe conditions: Firſt, that, at the time of the granting every ſuch licence, there is not any impediment of precontract, conſanguinity, affinity, or other lawfull cauſe, to hinder the ſaid marriage: Secondly, that there is not any controverſie or ſuit depending in any court be<g ref="char:EOLhyphen"/>fore any Eccleſiaſtical Judge, touching any contract or marriage of either of the ſaid parties with any other. Thirdly, that they have obtained thereunto the expreſs conſent of their Parents, (if they be living,) or otherwiſe of their Guardians or Gover<g ref="char:EOLhyphen"/>nours. Laſtly, that they ſhall celebrate the ſaid matrimony
+<pb n="33" facs="tcp:46940:32"/>publickly, in the Pariſh church or chappel, where one of them dwelleth, and in no other place; and that, between the hours of eight and twelve in the ſorenoon. Neither in the time of Lent, nor of any publick faſt, nor of the ſolemn feſtivities of the Na<g ref="char:EOLhyphen"/>tivity, Reſurrection, and Aſcenſion of our lord, or of the Deſ<g ref="char:EOLhyphen"/>cenſion of the holy Ghoſt.</p>
+            </div>
+            <div n="50" type="section">
+               <head>L. <hi>Oaths to be taken for the conditions.</hi>
+               </head>
+               <p>FOr the avoiding of all fraud and colluſion, in the obtaining of ſuch licences and diſpenſations; We further conſtitute and appoint, that be ore any licence for the celebration of Ma<g ref="char:EOLhyphen"/>trimony, without publication of bannes, be had and granted, it ſhall appear to the Judge, by the Oaths of two ſufficient wit<g ref="char:EOLhyphen"/>neſſes, one of them to be known to the aforeſaid Judge himſelf, or to ſome other perſon, of good reputation then preſent, and known likewiſe to the ſaid Judge: That the expreſs conſent of the Parents, or Parent, (if one be dead,) or guardians or guar<g ref="char:EOLhyphen"/>dian of the parties, is thereunto had and obtained. And fur<g ref="char:EOLhyphen"/>thermore, that one of the parties perſonally ſwear, that he be<g ref="char:EOLhyphen"/>lieveth there is no let or impediment of precontract, kindred or allyance, or of any other lawfull cauſe whatſoever; nor any ſuit commenced in any Eccleſiaſtical court, to bar, or hinder the proceeding of the ſaid Matrimony, according to the Tenor of the aforeſaid licence.</p>
+            </div>
+            <div n="51" type="section">
+               <head>LI. <hi>An exception for thoſe that are in Widdew-bood.</hi>
+               </head>
+               <p>IF both the parties, which are to marry, being in Widdow. hood, do ſeek a faculty, for the forbearing of Bannes; Then the clauſe before mentioned, requiring the Parents conſent, may be omitted, but the Pariſhes where they dwell both, ſhall be ex<g ref="char:EOLhyphen"/>preſſed in the licence, as alſo the Pariſh named, where the marri<g ref="char:EOLhyphen"/>age ſhall be celebrated. And if any, having power to grant li<g ref="char:EOLhyphen"/>cence, ſhall offend in the premiſſes, or any part thereof, he ſhall for every time ſo offending, be ſuſpended from the execution of
+<pb n="34" facs="tcp:46940:33"/>his Office for the ſpace of ſix moneths: and every ſuch licence or diſpenſation, ſhall be held void to all effects and purpoſes, as if there had never been any ſuch granted; and the parties marry<g ref="char:EOLhyphen"/>ing by vertue thereof, ſhall be ſubject to the puniſhments which are appointed for Clandeſtine marriages.</p>
+            </div>
+            <div n="52" type="section">
+               <head>LII. <hi>Miniſters not to marry any perſon without Bannes.</hi>
+               </head>
+               <p>NO miniſter of what place ſoever, nor under colour of any peculiar liberty or priviledge, claimed to appertain to any Church or Chappel, ſhall upon pain of deprivation, if he be beneficed, or degradation, if he be not beneficed, celebrate matrimony between any perſons, without a faculty or licence granted, except the bannes of matrimony have been firſt publiſhed three ſeveral Sundays or holy dayes, in the time of Divine ſervice, in the Pariſh churches and chappels, wherein the ſaid parties have dwelled, by the ſpace of three moneths before. Neither ſhall any miniſter upon the like pain, under any pretence whatſoever, joyn any perſons in marriage at any unſeaſonable times, but only between the hours of eight and twelve in the forenoon, nor in any private place; but either in the ſaid churches or chappels, where one of them dwelleth, and likewiſe in time of Divine ſervice, nor when Bannes are thrice asked before the parties and Governors of the parties to be married being under the age of 21. years, ſhall either perſonally, or by ſufficient teſtimony, ſignifie to him their conſents given to the ſaid marriage.</p>
+            </div>
+            <div n="53" type="section">
+               <head>LIII. <hi>No ſentence for Divorce to be given upon the ſole confeſſion of the parties.</hi>
+               </head>
+               <p>FOraſmuch as Matrimonial cauſes have been alwayes reckon<g ref="char:EOLhyphen"/>ed, and reputed amongſt the weightieſt, and therefore re<g ref="char:EOLhyphen"/>quire the greater caution, when they come to be handled, and debated in judgment, eſpecially in cauſes wherein Matrimo<g ref="char:EOLhyphen"/>ny, having been in the church duly ſolemnized, is required upon any ſuggeſtion, or pretext whatſoever, to be diſſolved or annul<g ref="char:EOLhyphen"/>led.
+<pb n="35" facs="tcp:46940:33"/>We do ſtralghtly charge and enjoyn, that in all proevedings to divorce, and nullities of Matrimony, good circumſpection and adviſe be uſed, and that the truth may (as far as is poſſible) be ſiſted out, by the depoſition of witneſſes, and other lawfull proofs and evictions, and that credit be not given to the ſole confeſſion of the parties themſelves, howſoever taken upon Oath, either within or without the court.</p>
+            </div>
+            <div n="54" type="section">
+               <head>LIV. <hi>No ſentence of Divorce to be given but in open Court.</hi>
+               </head>
+               <p>NO ſentence ſhall be given, either for ſeparation <hi>à Thoro &amp; Menſâ,</hi> or for annulling of pretended Matrimony, but in open court, and in the ſeat of Juſtice. And that with the know<g ref="char:EOLhyphen"/>ledge, and conſent, either of the Archbiſhop within his Province, or of the Biſhop within his Dioceſs, or <hi>Sede vacante,</hi> of the Guardians of the ſpiritualities, or the judge of the Prerogative, in their ſeveral Juriſdictions, and courts, and concerning them only, that are then dwelling under their Juriſdiction.</p>
+            </div>
+            <div n="55" type="section">
+               <head>LV. <hi>In all Sentences for Divorce, bond to be taken for not marrying during each others life.</hi>
+               </head>
+               <p>IN all ſentences proncunced only for Divorce and ſeparation <hi>à Thoro &amp; Menſâ,</hi> there ſhall be a caution and reſtraint inſerted in the Act of the ſaid ſentence, That the parties ſo ſeparated ſhall live chaſtly, and continently, neither ſhall they during each others liſe, contract Matrimony with any other perſon, and for the better obſerving of this laſt clauſe, the ſaid ſentence of Divorce ſhall not be pronounced, untill the party, or parties requiring the ſame, have given good ſufficient caution and ſecurity into the Court, that they will not any way break, or tranſgreſs the ſaid reſtraint or prohibition. And if any Judge aforeſaid, giving ſentence of Divorce, or ſeparation, ſhall not fully keep and ob<g ref="char:EOLhyphen"/>ſerve the premiſes, he ſhall be ſuſpended from the exerciſe of his Office, for the ſpace of a whole year.</p>
+            </div>
+            <div n="56" type="section">
+               <pb n="36" facs="tcp:46940:34"/>
+               <head>LVI. <hi>The order of Juriſdiction to be kept.</hi>
+               </head>
+               <p>FOr the a voiding of the unjuſt vexation of the people, and for the better preſerving of order in the exerciſe of Eccle<g ref="char:EOLhyphen"/>ſiaſtical Juriſdiction, we ordain and appoint that the Pro<g ref="char:EOLhyphen"/>bate of all Wills, and granting Adminiſtration of the goods of any defunct, ſhall be had before the Biſhop of the Dioceſs where he dwelled, unleſs it do appear, that the ſaid defunct had goods to the value of five pounds ſterling in any other Dioceſs: In which caſe, the ſaid Probate, and granting Adminiſtrations, ſhall be referred to the Prerogative court, Provided, That if any dye, <hi>in itinere,</hi> the goods that he hath about him at that prefent, ſhall not cauſe his Teſtament, or the Adminiſtration to be lyable to the Prerogative court. And the ſame order ſhall be holden in Appeals; without paſſing by the intermediate Juriſdiction, upon pain of nullity in all Acts contrary to this canon. And if any Judge of the Prerogative court, or any his Surrogate, or his Regiſter, or Apparitor, ſhall cite or cauſe to be cited, <hi>Ex offi<g ref="char:EOLhyphen"/>cio,</hi> any man to the intents aforeſaid, contrary to this canon, not having knowledge, that the probate of a Will, or granting Ad<g ref="char:EOLhyphen"/>miniſtration or Devolution of the cauſe, do appertain to his cogniſance, he ſhall reſtore to the party ſo cited all his coſts and charges, and the Acts and proceedings in that behalf, ſhall be held void and fruſtrate: which expences, if the ſaid Judge, or Regiſter or Apparitor ſhall refuſe accordingly to pay, he ſhall be ſuſpended from the exerciſe of his Offiee, untill he yield to the performance thereof.</p>
+            </div>
+            <div n="57" type="section">
+               <head>LVII. <hi>The reſtraint of double Quarrels upon reſpite of Inſtitution.</hi>
+               </head>
+               <p>WE do ordain and appoint, that no double Quarrels ſhall be hereafter granted out of any the Archbiſhops or prerogative court, at the ſuit of any clerk preſented to any benefice, except he ſhall firſt take his perſonal Oath, that the ſpace of two moneths at the leaſt is expired, ſince he firſt ten<g ref="char:EOLhyphen"/>dred
+<pb n="37" facs="tcp:46940:34"/>his preſentation to the Biſhop, and that he refuſed to grant him Inſtitution thereupon, under pain of ſuſpenſion of the gran<g ref="char:EOLhyphen"/>ter thereof, from the execution of his office for half a year, and nullity of the ſaid double Quarrell, ſo unduly procured to all intents and purpoſes.</p>
+            </div>
+            <div n="58" type="section">
+               <head>LVIII. <hi>Inhibitions not to be granted, without the ſubſcription of an Advo<g ref="char:EOLhyphen"/>cate.</hi>
+               </head>
+               <p>THat the Juriſdictions of biſhops may be preſerved, as near as may be entire and free from prejudice; and that for the behoof of the Subjects of this land, better proviſion be made, that henceforward they be not grieved with frivolous and wrongful ſuits and moleſtations: It is ordained and provided, That no Inhibition ſhall be granted out of any court, belonging to the Archbiſhop of the Province, or the ſupream Prerogative, at the inſtance of any party, unleſs it be ſubſcribed by an Advo<g ref="char:EOLhyphen"/>cate, practiſing in the ſaid Court, which, the ſaid Advocate ſhall do freely, not taking any Fee for the ſame, except the party proſecuting the ſuit, do voluntarily beſtow ſome gratuity upon him for his counſel and adviſe in the ſaid caſe. The like courſe ſhall be taken in granting forth any inhibition at the inſtance of any party, by the Biſhop or his Chancellor againſt the Arch<g ref="char:EOLhyphen"/>deacon, or any other perſon exerciſing Eccleſiaſtical Juriſdiction, and if in the court or conſiſtory of any Biſhop, there be no Ad<g ref="char:EOLhyphen"/>vocate at all, then ſhall the ſubſcription of a Proctor practiſing in the ſame court, be held ſufficient.</p>
+            </div>
+            <div n="59" type="section">
+               <head>LIX. <hi>Inhibitions not to be granted, untill the Appeal be exhibited to the Judge.</hi>
+               </head>
+               <p>IT is further ordered and decreed, that henceforward, no In<g ref="char:EOLhyphen"/>hibition be granted by occaſion of any interlocutory decree, or in cauſe of correction whatſoever, except under the form aforeſaid. And moreover, that before the going out of any ſuch Inhibition, the Appeal it ſelf, or a copy thereof, avouched
+<pb n="38" facs="tcp:46940:35"/>by Oath to be juſt and true, be exhibited to the Judge, or his lawfull Surrogate, whereby he may be fully informed, both of the quality of the crime, and the cauſe of the grievance, before the granting forth of the ſaid Inhibition. And every Appellant, or his lawfull Proctor ſhall before the obtaining of any ſuch In<g ref="char:EOLhyphen"/>hibition, ſhew and exhibite to the Judge, or his Surrogate in writing, a true copy of thoſe Acts, wherewith he complaineth himſelf to be agrieved, and from which he appealeth: Or ſhall take a corporal oath, that he hath performed his diligence and true endeavour, for the obtaining of the ſame, and could not ob<g ref="char:EOLhyphen"/>tain it at the hands of the Regiſter in the Country, or his Depu<g ref="char:EOLhyphen"/>ty, tendring him his Fee. And if any Judge, or Regiſter, ſhall either procure, or permit any Inhibition to be ſealed, ſo as is ſaid; contrary to the form and limitation above ſpecified, let him be ſuſpended from the execution of his Office, for the ſpace of three moneths. If any Proctor, or other perſon what<g ref="char:EOLhyphen"/>ſoever by his appointment, ſhall oflend in any of the premiſſes, either by making, or ſending out any Inhibition, contrary to the Tenor of the ſaid premiſſes, let him be removed from the exer<g ref="char:EOLhyphen"/>ciſe of his Office, for the ſpace of a whole year, without hope of releaſe or reſtoring.</p>
+            </div>
+            <div n="60" type="section">
+               <head>LX. <hi>Solemn Denunciation of parties Excommunicated.</hi>
+               </head>
+               <p>ALl Ordinaries ſhall in their ſeveral Juriſdictions carefully ſee, and give order that as well thoſe, who for revolting, and ſtill obſtinate refuſing to feequent Divine Service, eſtabliſh<g ref="char:EOLhyphen"/>ed by publick authority within this Realm of <hi>Ireland,</hi> as alſo, (eſpecially of the better ſort and condition,) who for notori<g ref="char:EOLhyphen"/>ous contumacy, or notable crimes ſtand lawfully excommuni<g ref="char:EOLhyphen"/>cate, (unleſs within three moneths immediately after the ſaid ſentence of excommunication pronounced againſt them, they reform themſelves, and obtain the benefit of abſolution) be every ſix moneths enſuing, as well in the Pariſh Church, as in the Cathedral Church of the Dioceſs, in which they remain, by the Miniſter openly, in the time of Divine ſervice upon ſome Sun<g ref="char:EOLhyphen"/>day declared, and pronounced excommunicate; that others may
+<pb n="39" facs="tcp:46940:35"/>be thereby admoniſhed, and excited to refrain their company and ſociety.</p>
+            </div>
+            <div n="61" type="section">
+               <head>LXI. <hi>Notorious crimes and ſcandals to be certified into Eccleſiaſtical Courts by preſentments.</hi>
+               </head>
+               <p>IF any offend their brethren, either by Adultery, Whoredom, Inceſt, or Drunkenneſs, or by Swearing, Ribauldry, Uſury, or any other uncleanneſs and wickedneſs of life; the church<g ref="char:EOLhyphen"/>wardens, or Queſtmen and Sidemen, in their next preſentments to their Ordinaries, ſhall faithfully preſent all and every of the ſaid offenders, to the intent, that they, and every of them, may be puniſhed by the ſeverity of the laws, according to their de<g ref="char:EOLhyphen"/>ſerts, and ſuch notorious offenders ſhall not be admitted to the holy Communion, till they be reformed.</p>
+            </div>
+            <div n="62" type="section">
+               <head>LXII. <hi>Schiſmaticks to be preſented.</hi>
+               </head>
+               <p>IF the Churchwardens, or Queſtmen, or aſſiſtants, do, or ſhall know any man within the Pariſh, or elſewhere, that is an hinde<g ref="char:EOLhyphen"/>rer of the word of God to be read, or ſincerely preached, or of the execution of theſe our conſtitntions, or a fautor of any uſurped or forraign power by the laws of this Realm juſtly re<g ref="char:EOLhyphen"/>jected, and taken away, or a defender of Popiſh or erronious doctrine, they ſhall detect and preſent the ſame, to the Biſhop of the Dioceſs, or Ordinary of the place, to be cenſured and pu<g ref="char:EOLhyphen"/>niſhed, according to ſuch Eccleſiaſtical laws, as are preſcribed in that behalf.</p>
+            </div>
+            <div n="63" type="section">
+               <head>XLIII. <hi>Not Communicants at Eaſter to be preſented.</hi>
+               </head>
+               <p>THe Miniſter, Churchwardens, Queſtmen and aſſiſtants of eve<g ref="char:EOLhyphen"/>ry Pariſh Church and Chappel, ſhall yearly within forty days after Eaſter, exhibite to the Biſhop, or his Chancellor, the names and ſurnames of all the Pariſhioners, as well Men as Wo<g ref="char:EOLhyphen"/>men;
+<pb n="40" facs="tcp:46940:36"/>Women; which being at the age of ſixteen years, received not the Communion at Eaſter before.</p>
+            </div>
+            <div n="64" type="section">
+               <head>LXIIII. <hi>Miniſters may preſent.</hi>
+               </head>
+               <p>BEcauſe it often cometh to paſs, that the Churchwardens, Side<g ref="char:EOLhyphen"/>men, Queſtmen, and ſuch others of the Laity, as are to take care for the ſuppreſſing of ſin and wickedneſs, in their ſeveral Pariſhes, as much as in them lyeth, by admonition, reprehenſion, and denunciation to their Ordinaries, do forbear to diſcharge their duties therein, either through fear of their Superiors, or through negligence (more than were fit,) the licenciouſneſs of theſe times conſidered. We ordain, that hereafter every Parſon and Vicar, or in the lawfull abſence of any Parſon, or Vicar, then their Curates and ſubſtitutes may joyn in every preſentment, with the ſaid Churchwardens, Sidemen, and the reſt above men<g ref="char:EOLhyphen"/>tioned, at the times hereafter limited, if the ſaid Churchwardens and the reſt will preſent ſuch e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormities, as are apparent in the Pariſh; or if they will not, then every ſuch Parſon and Vicar, or in their abſence, as is aforeſaid, their Curates may themſelves preſent to their Ordinaries, at ſuch times, and when elſe they think it meet, all ſuch crimes, as they have in charge otherwiſe, as by them, (being the perſon that ſhould have the chief care for the ſuppreſſing of ſin, and impiety in their Pariſhes,) ſhall be thought to require due reformation. Provided alwayes, that, if any one confeſs his ſecret and hidden ſin to the Miniſter, for the unburthening of his conſcience, and to receive ſpiritual conſola<g ref="char:EOLhyphen"/>tion and eaſe of his minde from him, We do not any way binde the ſaid Miniſter, by this our conſtitution, but do ſtraightly charge and admoniſh him, that he do not at any time reveal, and make known to any perſon whatſoever, any crime, or offence ſo committed to his truſt and ſecreſie, (except they be ſuch crimes, as by the Laws of this Realm his own life may be called into queſtion for concealing of the ſame) under pain of irregulari<g ref="char:EOLhyphen"/>ty.</p>
+            </div>
+            <div n="65" type="section">
+               <pb n="41" facs="tcp:46940:36"/>
+               <head>LXV. <hi>Miniſters, and Churchwardens not to be ſued for preſenting.</hi>
+               </head>
+               <p>WHereas for the reformation of criminous perſons, and diſorders in every Pariſh, the Churchwardens, Queſtmen, Sidemen, and ſuch other Officers, as are ſworn, and the Miniſter charged to preſent, as well the crimes and diſorders committed by the ſaid criminous perſons, as alſo the common fame which is ſpread abroad of them, whereby they are often maligned, and ſometimes troubled by the ſaid delinquents, or their friends: We do admoniſh and exhort all Judges, both Eccleſiaſtical and temporal, as they regard and reverence the fearfull judgement ſeat of the higheſt Judge, that they admit not in any of their Courts, any complaint, plea, ſuit, or ſuits, againſt any ſuch Churchwarden, Queſtmen, Sidemen, or other Church Officers, for making any ſuch preſentments, nor againſt any Miniſter for any preſentment he ſhall make, tending to the reſtraint of ſhame<g ref="char:EOLhyphen"/>leſs impiety: and conſidering that the rules both of charity and government, do preſume that they did nothing therein of malice, but for the diſcharge of their conſcience.</p>
+            </div>
+            <div n="66" type="section">
+               <head>LXVI. <hi>Churchwardens not bound to preſent oftner than twice a year.</hi>
+               </head>
+               <p>NO Churchwardens, Queſtmen, or Sidemen of any Pariſh ſhall be inforced to exhibit their preſentments to any, hav<g ref="char:EOLhyphen"/>ing Eccleſiaſtical Juriſdiction, above once in every year, where it hath been no oftner uſed, nor above twice in any Dioceſs whatſoe<g ref="char:EOLhyphen"/>ver; the Biſhops viſitation whereof to be one: for the which preſentments of every Pariſh Church or Chappel, the Regiſter of any Court, where they are to be exhibited, ſhall not receive in one year above four pence, under pain for every offence there<g ref="char:EOLhyphen"/>in of ſuſpenſion from the execution of his Office, for the ſpace of a moneth, <hi>toties quoties,</hi> Provided alwayes, that as good occaſion ſhall require it, it ſhall be lawfull for every Miniſter, Church<g ref="char:EOLhyphen"/>warden, and Sidemen, to preſent offenders, as often as they ſhall think meet. And likewiſe, for any godly diſpoſed perſon, or for
+<pb n="42" facs="tcp:46940:37"/>any Eccleſiaſtical Judge upon knowledge, or notice given unto him or them, of any enormous crime within his Juriſdiction, to move the Miniſter, Churchwardens, or Sidemen, as they ten<g ref="char:EOLhyphen"/>der the glory of God, and reformation of ſin, to preſent the ſame, if they ſhould find ſufficient cauſe to induce them there un<g ref="char:EOLhyphen"/>to; that it may be in due time puniſhed and reformed. Provid<g ref="char:EOLhyphen"/>ed, that for theſe voluntary preſentments there be no Fee requi<g ref="char:EOLhyphen"/>red, or taken of them, under the pain aforeſaid.</p>
+            </div>
+            <div n="67" type="section">
+               <head>LXVII. <hi>Churchwardens not to be troubled, for not preſenting oftner than twice a year.</hi>
+               </head>
+               <p>NO Churchwardens, Queſtmen, or Sidemen, ſhall be called or cited, but only at the ſaid time or times before limited, to appear before any Eccleſiaſtical Judge whoſoever, for refuſing at other times, to preſent any faults committed in their pariſhes, and puniſhable by Eccleſiaſtical laws; Neither ſhall they nor any of them, after their preſentments exhibited at any of thoſe times, be any further troubled for the ſame, except upon manifeſt, and evident proof, it may appear, that they did then, wittingly and willingly omit to preſent ſome ſuch publick crime or crimes, as they knew to be committed, or could not be igno<g ref="char:EOLhyphen"/>rant, that there was then a publick fame of them amongſt divers honeſt, and well reputed perſons; or unleſs there be very juſt cauſe to call them, for the explanation of their former preſent<g ref="char:EOLhyphen"/>ments. In which caſe of wilfull omiſſion, their Ordinaties ſhall proceed againſt them, in ſuch ſort as in cauſes of wilfull perjury, in a Court Eccleſiaſtical, is already by law provided.</p>
+            </div>
+            <div n="68" type="section">
+               <head>LXVIII. <hi>Convenient time to be aſſigned for framing preſentments.</hi>
+               </head>
+               <p>FOr the avoiding of ſuch inconveniencies, as heretofore have happened, by the haſty making of Bills of preſentments, up<g ref="char:EOLhyphen"/>on the dayes of the Viſitation and Synods, it is ordered; That alway hereafter every Chancellor, Archdeacon, Commiſſary and Official, and every other perſon having Eccleſiaſtical Juriſdiction,
+<pb n="43" facs="tcp:46940:37"/>at the ordinary time, when the Churchwardens are ſworn; and the Archbiſhops and Biſhops, when he or they do ſummon their Viſitation, ſhall deliver or cauſe to be delivered to the Church<g ref="char:EOLhyphen"/>wardens, Queſtmen, and Sidemen of every Pariſh, or to ſome of them ſuch books of Articles, as they, or any of them, ſhall require for the year following, the ſaid Churchward<g ref="char:EOLhyphen"/>ens, Queſtmen and Sidemen, to ground their preſentments upon; at ſuch times as they are to exhibite them. In which book ſhall be contained the form of the Oath, which muſt be taken imme<g ref="char:EOLhyphen"/>diately before every ſuch preſentment. To the intent, that ha<g ref="char:EOLhyphen"/>ving before hand, time ſufficient not only to peruſe, and conſider what their ſaid Oath ſhall be, but the Articles alſo, whereupon they are to ground their preſentments; they may frame them at home, both adviſedly and truly, to the diſcharge of their own conſciences, after they are ſworn, as becometh honeſt and godly men.</p>
+            </div>
+            <div n="69" type="section">
+               <head>LXIX. <hi>None to be cited into Eccleſiaſtical Courts by Proceſs of</hi> Quorum nomina.</head>
+               <p>NO Biſhop, Chancellor, Archdeacon, Official or other Ec<g ref="char:EOLhyphen"/>cleſiaſtical Judge, ſhall ſuffer any general Proceſs of <hi>Quorum nomina</hi> to be ſent out of his Court, except the names of all ſuch as are thereby to be cited, ſhall be firſt expreſly entred by the hand of the Regiſter, or his Deputy, under the ſaid Proceſſes; and the ſaid proceſſes and names, be firſt ſubſcribed by the Judge or his deputy, and his ſeal thereto affixed. And we further or<g ref="char:EOLhyphen"/>dain, that when any perſon appeareth upon citation whatſoever, that if the next Court day after, there be not Articles or a libell put in againſt him, he ſhall then be diſmiſſed with his coſts.</p>
+            </div>
+            <div n="70" type="section">
+               <head>LXX. <hi>Maturity required in proceeding.</hi>
+               </head>
+               <p>NO man for neglect of appearance ſhall be excommunicated for the firſt abſence, but ſhall be cited again upon the ſame Proceſs, And if he cannot be found, nor afterwards appear upon <hi>viis &amp; medis;</hi> then to be decreed <hi>Excemmunicandum fore.</hi>
+                  <pb n="44" facs="tcp:46940:38"/>Yet for preventing ſuch neglect, and that the party querelant may ſuſtain no detriment; hereby it is likewiſe ordered, that in cauſes of inſtance upon the appearance of any ſuch perſon, he ſhall pay the charge paſt, before he be admitted to ſtand <hi>Rectus in curiâ.</hi> And in the end of every Court, the names of thoſe that are deereed, ſhall be publickly read, to the intent that they may avoid the danger of the fearfull ſentence of Excommunication. Which courſe alſo, we ordain ſhall be holden with thoſe that be already denounced excommunicate, before the time of the ſigni<g ref="char:EOLhyphen"/>fying of their obſtinacy: to the end they and others may be admoniſhed of the danger in which they ſtand, and to the aggra<g ref="char:EOLhyphen"/>vation of their obſtinacy, if they continue in the ſame.</p>
+            </div>
+            <div n="71" type="section">
+               <head>LXXI. <hi>No ſentence of deprivation or depoſition to be pronounced againſt a Mi<g ref="char:EOLhyphen"/>niſter but by the Biſhop.</hi>
+               </head>
+               <p>WHen any Miniſter is complained of in any Eccleſiaſtical Court, belonging to any Biſhop for any crime, the chan<g ref="char:EOLhyphen"/>cellor, commiſſary, Official, or any other, having Eccleſiaſtical Juriſdiction, (to whom it ſhall appertain) ſhall expedite the cauſe by Proceſſes and other proceedings againſt him; and upon contumacy, for not appearing ſhall firſt ſuſpend him, and after<g ref="char:EOLhyphen"/>ward (his contumacy continuing) excommunicate him. But if he appear and ſubmit himſelf to the courſe of law, then the mat<g ref="char:EOLhyphen"/>ter being ready for ſentence, and the merits of his offence, ex<g ref="char:EOLhyphen"/>acting by law, either deprivation from his living, or depoſition from the Miniſtery, no ſuch ſentence ſhall be pronounced by any perſon whoſoever, but only by the Biſhop, with the aſſiſtance of his chancellor, the Dean, (if they may conveniently be had,) and ſome of the Prebendaries, if the court be kept near the ca<g ref="char:EOLhyphen"/>thedral church, or of the Archdeacon, if he may be had con<g ref="char:EOLhyphen"/>veniently, and two other at the leaſt grave Miniſters and Prea<g ref="char:EOLhyphen"/>chers, to be called by the Biſhop, when the court is kept in other places. It is likewiſe ordered that no chancellor, commiſſary, Official, or any other perſon ſhall exerciſe any Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>riſdiction, over a Miniſter in cauſes criminal, except he himſelf have been admitted into the holy Orders of Prieſthood.</p>
+            </div>
+            <div n="72" type="section">
+               <pb n="45" facs="tcp:46940:38"/>
+               <head>LXXII. <hi>No act to be ſped but in open court.</hi>
+               </head>
+               <p>NO Chancellor, Commiſſary, Archdeacon, Official, or any other perſon uſing Eccleſiaſtical Juriſdiction whoſoever ſhall ſpeed any judicial Act, either of contentious or vo<g ref="char:EOLhyphen"/>luntary Juriſdiction, except he have the ordinary Regiſter of that Court, or his lawfull Deputy, or if he or they will not, or cannot be preſent then ſuch perſons, as by law are allowed in that behalf, to write or ſpeed the ſame, under pain of ſuſpenſion, <hi>ipſo facto.</hi>
+               </p>
+            </div>
+            <div n="73" type="section">
+               <head>LXXIII. <hi>No Court to have more than one Seal.</hi>
+               </head>
+               <p>NO Chancellor, Commiſſary, Archdeacon, Official, or any other exerciſing Eccleſiaſticall Juriſdiction, ſhall, without the Biſhops conſent, have any more than one ſeal for the ſealing of all matters incident to his Office, which Seal ſhall alwayes be kept either by himſelf, or by his lawfull ſubſtitute exerciſing Juriſdiction for him, and remaining within the Juriſdiction of the ſaid Judge, or in the City, or principal Town of the county. This ſeal ſhall contain the title of that Juriſdiction, which every of the ſaid Judges, or their Deputies do execute.</p>
+            </div>
+            <div n="74" type="section">
+               <head>LXXIV. <hi>Convenient places to be choſen for keeping of courts.</hi>
+               </head>
+               <p>ALl chancellors, commiſſaries, Archdeacons, Officials, and all others exerciſing Eccleſiaſtical Juriſdiction, ſhall appoint ſuch meet places for the keeping of their courts, by the aſſigne<g ref="char:EOLhyphen"/>ment or approbation of the Biſhop of the Dioceſs, as ſhall be convenient for entertainment of thoſe who are to make their ap<g ref="char:EOLhyphen"/>pearance there, and moſt indifferent for their travel. And like<g ref="char:EOLhyphen"/>wiſe they ſhall keep and end their courts in ſuch convenient time, as every man may return homewards, in as due ſeaſon as may be.</p>
+            </div>
+            <div n="75" type="section">
+               <pb n="46" facs="tcp:46940:39"/>
+               <head>LXXV. <hi>Peculiar and inferiour courts to exhibite the Original copies of Wills into the Biſhops Regiſtry.</hi>
+               </head>
+               <p>WHereas Deans, Archdeacons, Prebendaries, Parſons, Vicars, and others exerciſing Eccleſiaſtical Juriſdiction, claim liberty to prove the laſt Wills and Teſtaments of perſons deceaſed within their ſeveral Juriſdictions, having no known nor certain Regiſters, nor publick places to keep their Records in; by reaſon whereof, many Wills, rights and legacies, upon the death, or change of ſuch perſons and their private No<g ref="char:EOLhyphen"/>taries, miſcarry, and cannot be found, to the great prejudice of his Majeſties Subjects. We therefore order and enjoyn, that all poſſeſſors and exerciſers of peculiar Juriſdiction, ſhall once in every year exhibite into the publick Regiſtry of the Biſhop of the Dioceſs, or of the Dean and chapter, (under whoſe Juriſ<g ref="char:EOLhyphen"/>diction the ſaid peculiars are,) every original teſtament of every perſon in that time deceaſed, and by them proved in their ſeveral peculiar Juriſdictions; or a true copy of every ſuch teſtament examined, ſubſcribed and ſealed by the peculiar Judge and his Notary. Otherwiſe, if any of them fail ſo to do, the Biſhop of the Dioceſs, or Dean and chapter, unto whom the ſaid Juriſdicti<g ref="char:EOLhyphen"/>ons do reſpectively belong, ſhall ſuſpend the ſaid parties, and every of them from the exerciſe of all ſuch peculiar juriſdicti<g ref="char:EOLhyphen"/>on, until they have performed this our conſtitution.</p>
+            </div>
+            <div n="76" type="section">
+               <head>LXXVI <hi>The quality and Oath of Judges and Surrogates.</hi>
+               </head>
+               <p>NO man ſhall hereafter be admitted a chancellor; commiſ<g ref="char:EOLhyphen"/>ſary, official or Surrogate, to exerciſe any Eccleſiaſtical juriſdiction, except he be of the full age of ſix and twen<g ref="char:EOLhyphen"/>ty years at the leaſt, and one that is learned in the civil and Ec<g ref="char:EOLhyphen"/>cleſiaſtical laws, and is at the leaſt a maſter of Arts, or Bachellor of law, and is reaſonably well practiſed in the courſe thereof, as likewiſe well affected and zealouſly bent to Religion, touching whoſe life and manners no evil example is had; and except be<g ref="char:EOLhyphen"/>fore
+<pb n="47" facs="tcp:46940:39"/>he enter into or execute any ſuch office, he ſhall take the Oath of the Kings Supremacy, in the preſence of the Biſhop, or in the open Court: and ſhall declare his conſent, by ſubſcription to the two firſt Canons of this preſent Synod, And alſo ſhall ſwear that he will, to the uttermoſt of his underſtanding deal uprightly and juſtly in his Office, without reſpect of favour or reward; The ſaid Oaths and ſubſcription to be recorded by a Regiſter then preſent. And it is likewiſe ordered that every Regiſter ſhall take the ſaid Oath of Supremacy, and ſubſcribe as aforeſaid, before he be admitted to exerciſe that Office. And alſo that all Chancellors, Commiſſaries, Officials, Regiſters, and all others that do now poſſeſs, or execute any places of Eccleſi<g ref="char:EOLhyphen"/>aſtical Juriſdiction or ſervice, ſhall before Chriſtmas next in the preſence of the Archbiſhop or Biſhop, or in open court, (under whom or where they exerciſe their Offices,) take the ſame oaths. Or upon refuſal ſo to do, ſhall be ſuſpended from the ex<g ref="char:EOLhyphen"/>ecution of their Offices, untill they ſhall take the ſaid Oaths.</p>
+            </div>
+            <div n="77" type="section">
+               <head>LXXVII. <hi>Proctors not to retain cauſes without the lawfull aſſignment of the parties.</hi>
+               </head>
+               <p>NOne ſhall procure in any cauſe whatſoever, unleſs he be thereunto conſtituted, and appointed by the party himſelf, either before the judge, and by Act in court; or unleſs in the beginning of the ſuit, he be by a true and ſufficient Proxey there<g ref="char:EOLhyphen"/>unto warranted and enabled. We call that Proxey ſufficient, which is ſtrengthened, and confirmed by ſome authentical Seal, the parties approbation, or at leaſt his ratification therewithall concurring. All which Proxeys ſhall be forthwith by the ſaid Proctors exhibited into the court, and be ſafely kept and preſer<g ref="char:EOLhyphen"/>ved by the Regiſter in the publick Regiſtry of the ſaid court. And if any Regiſter or Proctor ſhall offend herein, he ſhall be ſecluded from the exerciſing of his office, for the ſpace of two moneths, without hope of veleaſe or reſtoring.</p>
+            </div>
+            <div n="78" type="section">
+               <pb n="48" facs="tcp:46940:40"/>
+               <head>LXXVIII. <hi>Proctors prohibited the Oath</hi> in animam domini ſui.</head>
+               <p>FOraſmuch as in the probate of Teſtaments, and ſuits for Ad<g ref="char:EOLhyphen"/>miniſtration of the goods of perſons dying inteſtate, the Oath uſually taken by Proctors of Court, <hi>in animam conſtituentis,</hi> is found to be inconvenient. We do therefore decree, and or<g ref="char:EOLhyphen"/>dain, that every Executor or ſuiter for adminiſtration, ſhall per<g ref="char:EOLhyphen"/>ſonally repair to the judge in that behalf, or to his Surrogate; and in his own perſon, (&amp; not by Proctor,) take the oath accuſt<g ref="char:EOLhyphen"/>omed in theſe caſes. But if by reaſon of ſickneſs or age, or any other juſt lett or impediment, he be not able to make his perſonal appearance before the Judge; it ſhall be lawfull for the Judge (there being faith firſt made, by a credible perſon of the truth of his ſaid hinderance, or impediment,) to grant a commiſſion to ſome grave Eccleſiaſtical perſon, abiding near the party afore<g ref="char:EOLhyphen"/>ſaid, whereby he ſhall give power and authority to the ſaid Ec<g ref="char:EOLhyphen"/>cleſiaſtical perſon in his ſtead, to Miniſter the accuſtomed oath above mentioned, to the Executor, or ſuiter for ſuch adminiſtra<g ref="char:EOLhyphen"/>tion. Requiring his ſaid ſubſtitute, that by a faithfull and truſty meſſenger, he certifie the ſaid Judge, truly and faithfully, what he hath done therein. Laſtly, we ordain and appoint, that no judge, or Regiſter, ſhall in any wiſe receive for the writing, drawing, or ſealing of any ſuch Commiſſion, above the ſum of ſix ſhillings and eight pence: whereof one moyety to be for the Judge, and the other for the Regiſter of the ſaid court.</p>
+            </div>
+            <div n="79" type="section">
+               <head>LXXIX. <hi>Proctors not to be clamorous in Court.</hi>
+               </head>
+               <p>FOraſmuch as it is found by experience, that the lond and confuſed cries, and clamors of Proctors in the Eccleſiaſtical courts in this Kingdom, are not only troubleſome and offen<g ref="char:EOLhyphen"/>ſive to the judge, and Advocates; but alſo give occaſion to the ſtanders by, of contempt, and calumny toward the court it ſelf. That more reſpect may be had to the dignity of the judge, than heretofore, and that cauſes may more eaſily and commodiouſly
+<pb n="49" facs="tcp:46940:40"/>be handled and diſpatched: We charge and enjoyn, that all Pro<g ref="char:EOLhyphen"/>ctors in the ſaid court do eſpecially intend, that the Acts may be faithfully entred, and ſet down by the Regiſter, according to the advice and direction of the Advocate, That the ſaid Proctors refrain loud ſpeech, and brabling, and behave themſelves quietly and modeſtly, and that when either the judges, or Advocates, or any of them ſhall happen to ſpeak, they preſently be ſilent, upon pain of ſilencing for two whole terms, then immediately follow<g ref="char:EOLhyphen"/>ing every ſuch offence of theirs. And if any of them ſhall the ſecond time offend herein, and after due monition ſhall not re<g ref="char:EOLhyphen"/>form himſelf, let him be for ever removed from his practice.</p>
+            </div>
+            <div n="80" type="section">
+               <head>LXXX. <hi>The Oath</hi> de Calumnia <hi>not to be refuſed.</hi>
+               </head>
+               <p>WE ordain and appoint, that as well the Actor, as his Proctor and Advocate, (if they be required,) ſhall take the Oath <hi>De c<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lumniâ</hi> whereſoever in the ſuit the ſame ſhall be tendred be<g ref="char:EOLhyphen"/>fore ſentence, upon pain that the cauſe ſhall be diſmiſſed by the Judge, with coſts for the party grieved.</p>
+            </div>
+            <div n="81" type="section">
+               <head>LXXXI. <hi>Abuſes to be reformed in Regiſters.</hi>
+               </head>
+               <p>IF any Regiſter, or his Deputy, or ſubſtitute whatſoever ſhall receive any certificate, without the knowledge and conſent of the Judge of the court, or willingly omit, to cauſe any perſons cited to appear upon any court day, to be called or unduely put off, and deferre the examination of witneſſes to be examined by a day ſet, and aſſigned by the Judge, or do not obey and obſerve the ſaid Judicial, and lawfull monition of the ſaid Judge, or omit to write, or cauſe to be written ſuch Citations and decrees, as are to be put in execution, and ſet forth before the next court day: or ſhall not cauſe all teſtaments exhibited into his office, to be regiſtred within a convenient time; or ſhall ſet down or enact, as decreed by the Judge, any thing falſe or conceited by himſelf, and not ſo ordered and decreed by the Judge; or in the tranſmiſſion of <hi>Proceſſes</hi> to the Judge <hi>ad quem,</hi> ſhall add or
+<pb n="50" facs="tcp:46940:41"/>inſert any falſhood, or untruth, or omit any thing therein, either by cunning, or by groſs negligence, or in caſes of inſtance, or pro<g ref="char:EOLhyphen"/>moted of Office; ſhall receive any reward in favour of either party, or be of counſel directly or indirectly, with either of the parties in ſuit, or in the execution of their Office, ſhall do ought elſe malitiouſly or fraudulently, whereby the ſaid Eccleſiaſtical Judge or his proceeding may be ſlandered or defamed: We will and ordain, that the ſaid Regiſter, or his deputy, or ſubſtitute, offending in all, or any the premiſſes, ſhall by the Biſhop of the Dioceſs be ſuſpended from the exerciſe of his Office, for the ſpace of one, two, or three moneths, or more, according to the quality of the offence. And that ſome other publick Notary do execute and diſcharge all things pertaining to his Office, during the time of his ſaid ſuſpenſion.</p>
+            </div>
+            <div n="82" type="section">
+               <head>LXXXII. <hi>A certain rate of Fees to all Eccleſiaſtical Officers.</hi>
+               </head>
+               <p>NO Biſhop, Suffragan, Chancellor, Commiſſary, Archdeacon, Official, or any other exerciſing Eccleſiaſtical Juriſdiction whatſoever, nor any Regiſter of any Eccleſiaſtical courts; nor any Miniſter belonging to any of the ſaid Offices, or courts ſhall hereafter, (for any cauſe incident to their ſeveral Offices,) take or receive any other or greater Fee, than ſuch as are, or ſhall be allowed by lawfull authority in this Kingdom: under pain that every ſuch Judge, Officer, or Miniſter offending therein, ſhall be ſuſpended from the exerciſe of their ſeveral Offices, for the ſpace of ſix moneths, for every ſuch offence.</p>
+            </div>
+            <div n="83" type="section">
+               <head>LXXXIII. <hi>A table of the rates of Fees to be ſet up in courts and Regiſtries.</hi>
+               </head>
+               <p>WE do likewiſe conſtitute and appoint, that the Regiſters belonging to every Eccleſiaſtical Judge, ſhall place two Tables, containing the ſeveral rates and ſums of all the ſaid Fees, one, in the uſual place or conſiſtory, where the court is kept; and the other in his Regiſtry: and both of them in ſuch ſort, as every man, whom it concerneth, may without difficulty come
+<pb n="51" facs="tcp:46940:41"/>to the view and peruſal thereof, and take a copy of them. And if any Regiſter ſhall fail to place the ſaid Tables according to the Tenor hereof, within the ſpace of a moneth, after the ſame hath been delivered to him, by the Biſhop of the Dioceſs; he ſhall be ſuſpended from the execution of his Office, untill he cauſe the ſame to be accordingly done. And the ſaid Table being once ſet up, if he ſhall at any time remove, or ſuffer the ſame to be removed, hidden, or any way hindered from ſight, (contrary to the true meaning of this conſtitution,) he ſhall for every offence be ſuſpended from the exerciſe of his Office, for the ſpace of ſix moneths.</p>
+            </div>
+            <div n="84" type="section">
+               <head>LXXXIV. <hi>The whole Fees for ſhewing letters of orders, and other licences, due but once in every Biſhops time.</hi>
+               </head>
+               <p>FOraſmuch as a chief and principal cauſe, and uſe of Viſita<g ref="char:EOLhyphen"/>tions, is, that the Archbiſhops, Biſhops, or other aſſigned by them to viſit, may get ſome good knowledge of the ſtate, ſufficiency and ability of the clergy, and other perſons whom they are to viſit. We think it convenient that every Par<g ref="char:EOLhyphen"/>ſon, Vicar, Curate, Schoolmaſter, or other perſon licenced who<g ref="char:EOLhyphen"/>ſoever, do at the Archbiſhops or Biſhops firſt viſitation, or at the next viſitation after his admiſſion, ſhew and exhibit unto them, his letters of Orders, Inſtitution and Induction, and all other his diſpenſations, licences or faculty whatſoever, to be by the ſaid Archbiſhops or biſhops, either allowed of, or (if there be juſt cauſe,) diſ-allowed and rejected, and being by them approved, to be, (as the cuſtom is,) ſigned by the Regiſter. And that the whole Fees accuſtomed, be paid only once in the whole time of every Archbiſhop or biſhop; and afterwards but halfe of the ſaid accuſtomed Fees, in every viſitation, during the ſaid biſhops continuance.</p>
+            </div>
+            <div n="85" type="section">
+               <pb n="52" facs="tcp:46940:42"/>
+               <head>LXXXV <hi>The number of Apparitors reſtrained.</hi>
+               </head>
+               <p>FOraſmuch as we are deſirous to redreſs ſuch abuſes and grievances, as are ſaid to grow by Sumners or Apparitors. We think it meet that the multitude of Apparitors, be (as much as is poſſible,) abridged or reſtrained. Wherefore, we decree and ordain, that no Biſhop or Archdeacon, or their Vicars or Officials, or other inferior Ordinaries, ſhall depute, or have more Apparitors, to ſerve in their Juriſdictions reſpectively, than one in every Deanery at the moſt, beſides the general Apparitor of the Biſhop. All which Apparitors ſhall by themſelves faith<g ref="char:EOLhyphen"/>fully execute their Offices; neither ſhall they, by any colour or pretence whatſoever, cauſe or ſuffer their Mandats to be executed by any meſſengers or ſubſtitutes; unleſs it be, upon ſome good cauſe to be firſt known, and approved by the ordinary of the place. Moreover they ſhall not take upon them the Office of Promotors, or Informers for the Court; neither ſhall they ex<g ref="char:EOLhyphen"/>act more or greater Fees, than are in theſe our conſtitutions for<g ref="char:EOLhyphen"/>merly preſcribed. And if either, the number of the Apparitors deputed, ſhall exceed the foreſaid limitation, or any of the ſaid Apparitors ſhall offend in any of the premiſſes; the perſons deputing them, if they be Biſhops, ſhall upon admonition of their Superior, diſcharge the perſons exceeding the number ſo limited; if inferior Ordinaries, they ſhall be ſuſpended from the execution of their Offices, untill they have diſmiſſed the Apparitors by them ſo deputed; and the parties themſelves ſo deputed, ſhall for ever be removed, from the Office of Appari<g ref="char:EOLhyphen"/>tors. And if being ſo removed, they deſiſt not from the exer<g ref="char:EOLhyphen"/>ciſe of their ſaid Offices, let them be puniſhed by Eccleſiaſtical cenſures, as perſons contumacious. Provided, that if upon ex<g ref="char:EOLhyphen"/>perience, the number of the ſaid Apparitors be too great, in any Dioceſs, in the judgement of the Archbiſhop of the Province, they ſhall by him be ſo abridged, as he ſhall think meet and con<g ref="char:EOLhyphen"/>venient.</p>
+            </div>
+            <div n="86" type="section">
+               <pb n="53" facs="tcp:46940:42"/>
+               <head>LXVI. <hi>Pariſh Clerks to be choſen by the Miniſter.</hi>
+               </head>
+               <p>NO Pariſh Clerk, upon any vacation, ſhall be choſen, but by the Parſon or Vicar, or where there is no preſentative, or collative Parſon, or Vicar, by the Miniſter of that place for the time being: which choice ſhall be ſignified by the ſaid Miniſter, Vicar, or Parſon, to the Biſhop of the Dioceſs, to be by him ap<g ref="char:EOLhyphen"/>proved. And if the Parſon, Vicar, or Curate, ſhall fail to make choice of ſuch a man, and preſent him to the Biſhop, to be by him allowed, by the ſpace of forty dayes after the vacancy: in ſuch caſe, the Biſhop ſhall have power to nominate and appoint a Clerk for that place. And the ſaid Clerk ſhall be of twenty years of age at the leaſt, and known to the ſaid Parſon, Vicar, or Mi<g ref="char:EOLhyphen"/>niſter, to be of honeſt converſation, and ſufficient for his reading, writing, and alſo for his competent skill in ſinging, (if it may be.) And, where the Miniſter is an Engliſh man, and many Iriſh in the Pariſh, ſuch a one, as ſhall be able to read thoſe parts of the Service, which ſhall be appointed to be read in Iriſh (if it may be:) and the Clerks ſo choſen ſhall be reſident; and per<g ref="char:EOLhyphen"/>form their duties in their own perſons. For which they ſhall re<g ref="char:EOLhyphen"/>ceive their d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e wages without diminution at ſuch times as have been accuſtomed. And if any queſtion do ariſe, concerning the ſaid cuſtom or wages, the Biſhop of the Dioceſs ſhall ſet an order therein.</p>
+            </div>
+            <div n="87" type="section">
+               <head>LXXXVII. <hi>The choice of churchwardens and their accompt.</hi>
+               </head>
+               <p>ALl Churchwardens or Queſtmen in every Pariſh, ſhall be choſen, on Monday or Tueſday in <hi>Eaſter</hi> week by the joynt conſent of the Miniſter and the Pariſhioners, (if it may be:) but if they cannot agree upon ſuch a choice, then the Miniſter ſhall chooſe one, and the Pariſhioners another, and without ſuch a joynt, or ſeveral choice, none ſhall take upon them to be Churchwardens, neither ſhall they continue any longer than one year in that Office, except perhaps they may be choſen again in
+<pb n="54" facs="tcp:46940:43"/>like manner. And upon the next conſiſtory day after ſuch election, they ſhall take their Oath before the Biſhop or his Chancellor: and in caſe the Pariſh ſhall fail to joyn, or elect as is aforeſaid, the Ordinary ſhall ſupply the defect. And all Churchwardens at the end of their year, or within a moneth after, at the moſt, ſhall before the Miniſter and Pariſhioners, give up a juſt accompt of ſuch mony, as they have received, and alſo what particularly, they have beſtowed in reparations and other<g ref="char:EOLhyphen"/>wiſe, for the uſe of the Church. And laſt of all, going out of their Office, they ſhall truly deliver up to the Pariſhioners, what<g ref="char:EOLhyphen"/>ſoever mony or other things, of right belonging to the Church or Pariſh, which remaineth in their hands: that it may be deli<g ref="char:EOLhyphen"/>vered over by them to the next Churchwardens by Bill indent<g ref="char:EOLhyphen"/>ed.</p>
+            </div>
+            <div n="88" type="section">
+               <head>LXXXVIII. <hi>The choice of Sidemen, and their joynt Office with Churchwardens.</hi>
+               </head>
+               <p>THe Churchwardens of every Pariſh, and two or more diſ<g ref="char:EOLhyphen"/>creet perſons, in every Pariſh, to be choſen for Sidemen or aſſiſtants by the Miniſter and Pariſhioners, if they can agree; (otherwiſe to be appointed by the Ordinary of the Dioceſs,) ſhall diligently ſee, that all the pariſhioners duely reſort to their Church, upon all Sundayes and Holydayes, and there to continue the whole time of Divine Service, and none to walke or ſtand idle, or talking in the Church-yard or Church-porch, during that time. But eſpecially they ſhall ſee, that in every meeting of the Congregation, peace be well kept: and that all perſons excommunicated, and ſo denounced, be kept out of the Church, during the time of Divine Service. And all ſuch, as ſhall be found ſlack, or negligent in reſorting to the Church, (having no great or urgent cauſe of abſence,) they ſhall earneſtly call upon them; and after due monition, (if they amend not,) they ſhall preſent them to the Ordinary of the place. The choice of which perſons, <hi>viz.</hi> Churchwardens, or Sidemen or Aſſiſtants; ſhall be yearly made in Eaſter week.</p>
+            </div>
+            <div n="89" type="section">
+               <pb n="55" facs="tcp:46940:43"/>
+               <head>LXXXIX. <hi>The old Churchwardens to make their Preſentments, before the new be ſworn.</hi>
+               </head>
+               <p>THe Office of all Churchwardens and Sidemen, ſhall be re<g ref="char:EOLhyphen"/>puted ever hereafter to continue, untill the new Church<g ref="char:EOLhyphen"/>wardens that ſhall ſucceed them, be ſworn; which ſhall be the firſt court after <hi>Eaſter,</hi> or according to the direction of the Or<g ref="char:EOLhyphen"/>dinary: which time ſo appointed, ſhall alwayes be the time in every year, or one of the two times, when the Churchwardens, and Sidemen of every Pariſh, ſhall exhibit to their ſeveral Or<g ref="char:EOLhyphen"/>dinaries, the preſentments of ſuch enormities, as have happened in their Pariſhes ſince the laſt preſentments. And this duty they ſhall perform, before the newly choſen Churchwardens and Side<g ref="char:EOLhyphen"/>men be ſworn: And ſhall not be ſuffered to paſs over the ſaid preſentments, to thoſe that are newly come into Office, and are, (by intendment) ignorant of ſuch crimes; under pain of thoſe cenſures, which are appointed for the reformation of ſuch dallyers, and diſpenſers with their own conſciences, and oaths.</p>
+            </div>
+            <div n="90" type="section">
+               <head>XC. <hi>The duty of Churchwardens touching ſuch perſons, as are out of the Church, in the time of Gods worſhip, on Sundayes or Holy-dayes.</hi>
+               </head>
+               <p>THe Churchwardens and their aſſiſtants, ſhall warne Inholders, Taverners, Victuallers, and Alehouſe-keepers, that they ſell no meat, or drink, and that they receive none into their Ta<g ref="char:EOLhyphen"/>vern, or Alehouſe, all the time wherein there is preaching or celebration of Divine Service, upon Sundayes or Holy-dayes, If any do contrary upon contempt, or ſtubborneſs; they ſhall preſent both him and them, whom he received, by name, in the next viſitation. Alſo, they ſhall ſee, that none of thoſe light wanderers in markets, and pelting-ſellers, which carry about, and ſell Pins, Points, and other ſmall trifles, whom they call Pedlers, ſet out their Wares to ſale: And that no Beggars, or idle per<g ref="char:EOLhyphen"/>ſons abide, either in the Church-yard, or near the Church, all that time, but ſhall cauſe them either, to come in, or to depart.</p>
+            </div>
+            <div n="91" type="section">
+               <pb n="56" facs="tcp:46940:44"/>
+               <head>XCI. <hi>Their duty touching thoſe perſons that are in the church at that time.</hi>
+               </head>
+               <p>THey ſhall alſo ſee, that in every meeting of the congregation, peace be well kept; and that none behave themſelves rudely, or diſorderly in the church. And to that end, they ſhall warn the people, that they bring not with them to the church, Dogs, Hawkes with bels or children which are not ſo nurtured, as they can be kept quiet in their ſeats, without running up and down; Neither ſhall they ſuffer any perſon to diſturb the Service or Sermon, either, by untimely ringing of bels, or by walking, talk<g ref="char:EOLhyphen"/>ing, laughing, or any other noiſe, which may hinder the Miniſter, or offend the people. And the names of all ſuch as offend in this kinde, they ſhall truly, and perſonally preſent in the Ordi<g ref="char:EOLhyphen"/>naries viſitations.</p>
+            </div>
+            <div n="92" type="section">
+               <head>XCII. <hi>To keep the churches from being prophaned at all other times.</hi>
+               </head>
+               <p>THey ſhall ſuffer no playes, feaſts, banquets, ſuppers, church<g ref="char:EOLhyphen"/>ales, drinkings, expoſing any wares to ſale, temporal coures or leets, lay-juries, Muſters, commiſſions, (other than for cauſe; Eccleſiaſtical,) playing at ball, or any other prophane uſage, to be kept in the church, chappel, or church-yard: neither the bels to be rung, either in the feaſt of all Souls; or upon any Holy<g ref="char:EOLhyphen"/>dayes or Eves, abrogated by the book of common prayer, nei<g ref="char:EOLhyphen"/>ther for moneths or twelve moneths minds, or remembrances of the dead, nor at any time at all prohibited by the Biſhop.</p>
+            </div>
+            <div n="93" type="section">
+               <head>XCIII. <hi>To ſee Churches and Church-yards kept in ſufficient reparations.</hi>
+               </head>
+               <p>THey ſhall take care and provide, that the Churches be well and ſufficiently repaired, and ſo from time to time kept, and maintained; that the Windowes be well glazed, and that the floores be kept paved, plain and even; and all things there, in ſuch an orderly and decent ſort, (without duſt, or any thing
+<pb n="57" facs="tcp:46940:44"/>that may be noiſome, or unſeemly, J as beſt becometh the houſe of God. The like care they ſhall take, that the church-yards, be well and ſufficiently repaired, fenced, and maintained, with walls, rayles and pales, as have been in each place accuſtomed, at their charge, unto whom, by law the ſame appertaineth.</p>
+            </div>
+            <div n="94" type="section">
+               <head>XCIV. <hi>To furniſh all churches, with things neceſſary for the celebration of Divine Service, preaching, and adminiſtration of the Sacraments.</hi>
+               </head>
+               <p>THey ſhall provide in every church, at the common charge of the Pariſh, two books of common prayer; one for the Mi<g ref="char:EOLhyphen"/>niſter, and the other for the clerk, with all convenient ſpeed; but at fartheſt, within ſix moneths after the publiſhing of theſe canons. And likewiſe the Bible of the laſt tranſlation, ſet forth in the time of King <hi>James,</hi> of bleſſed memory. And where all, or the moſt part of the people are Iriſh, they ſhall provide alſo the ſaid books in the Iriſh tongue; ſo ſoon as they may be had. The charge of theſe Iriſh books, being to be borne alſo, wholly by the Pariſh. They ſhall alſo at the ſame common charge, provide a fit ſeat for the Miniſter to read Service in, a comely and decent Pulpit, to be ſet in a convenient place for the preaching of Gods word; a Font of ſtone ſet in the ancient uſu<g ref="char:EOLhyphen"/>al place, for the miniſtration of baptiſm; together with a fair Table, to be placed at the Eaſt end of the church or chancel, and a cup of Silver for the celebration of the Holy communion. Which Table alſo ſhall ſtand covered in time of Divine Service, with a carpet of Sikl, or other decent ſtuffe, thought meet by the Ordinary of the place, (if any queſtion be made of it;) and with a fair linnen cloath, at the time of the miniſtration, as be<g ref="char:EOLhyphen"/>cometh that Table.</p>
+            </div>
+            <div n="95" type="section">
+               <head>XCV. <hi>To provide things fitting for every communion, and to obſerve thoſe that come, or come not to the ſame.</hi>
+               </head>
+               <p>LIkewiſe, they ſhall at the charge of the Pariſh, againſt the time of every communion, with the adviſe and direction of
+<pb n="58" facs="tcp:46940:45"/>the Miniſter, provide a ſufficient quantity of fine white bread, and of good and wholſom Wine, for the number of communi<g ref="char:EOLhyphen"/>cants, that ſhall from time to time receive there; which wine they ſhall cauſe to be brought, to the communion Table, in a clean and ſweet ſtanding pot, or ſtoop of Pewter, if not of purer mettal. Alſo they ſhall mark, as well as the Miniſter, whether all and every of the Pariſhioners, come ſo often every year, to the holy communion, as the laws and our conſtitutions do re<g ref="char:EOLhyphen"/>quire; and whether any ſtrangers come often, and commonly, from other Pariſhes to their Church: and ſhall ſhew their Mi<g ref="char:EOLhyphen"/>niſter of them, leaſt perhaps they be admitted to the Lords Table, amongſt others which they ſhall forbid, and remit ſuch home, to their own Pariſh Churches and Miniſters, there to re<g ref="char:EOLhyphen"/>ceive the communion, with the reſt of their own neighbours.</p>
+            </div>
+            <div n="96" type="section">
+               <head>XCVI. <hi>To provide a cheſt for Almes in every church.</hi>
+               </head>
+               <p>THey ſhall provide and have, within three moneths next after the publiſhing of theſe conſtitutions, a ſtrong cheſt with a hole in the upper part thereof; to be provided at the charge of the Pariſh, having three keys: of which, one ſhall remain in the cuſtody of the Parſon, Viear, or Curate; and the other two, in the cuſtody of the churchwardens for the time being. Which cheſt they ſhall ſet and faſten in the moſt convenient place, to the intent the Pariſhioners may put into it, the Almes for their poor neighbours. And the Parſon, Vicar or curate, ſhall diligently from time to time, (and eſpecially, when men make their Teſta<g ref="char:EOLhyphen"/>ments,) call upon, exhort, and move their neighbours, to con<g ref="char:EOLhyphen"/>ferr and give, (as they may well ſpare,) to the ſaid cheſt, de<g ref="char:EOLhyphen"/>claring unto them, that whereas, heretofore they have been di<g ref="char:EOLhyphen"/>ligent, to beſtow much ſubſtance otherwiſe than God command<g ref="char:EOLhyphen"/>ed, upon ſuperſtitious uſes; now they ought, at this time, to be much more ready, to help the poor and needy: knowing that to relieve the poor, is a ſacrifice which pleaſeth God, and that alſo whatſoever is given for their comfort, is given to Chriſt him<g ref="char:EOLhyphen"/>ſelf, and is ſo accepted of him, that he will mercifully reward the ſame. The which Almes, and devotion of the people, the
+<pb n="59" facs="tcp:46940:45"/>keepers of the keyes, ſhall yearly, quarterly, or ofther (as need requireth) take out of the cheſt, and diſtribute the ſame, in the preſence of moſt of the Pariſh, or fix of the chief of them; to be truly and faithfully delivered, to their moſt poor and needy neighbours.</p>
+            </div>
+            <div n="97" type="section">
+               <head>XCVII. <hi>To aboliſh all Monuments of ſuperſtition.</hi>
+               </head>
+               <p>MOreover they ſhall, (with the approbation of the Ordinary of the place,) ſee, that all Rood-lofts, in which wooden croſſes ſtood: all ſhrines, and all coverings of ſhrines, and all other Monuments of fained miracles, pilgrimages, idolatry, and ſuperſtition, be clean taken away and removed.</p>
+            </div>
+            <div n="98" type="section">
+               <head>XCVIII. <hi>None to teach School without licence, and curates deſirous to teach, to be licenced before others.</hi>
+               </head>
+               <p>IT ſhall not be lawfull for any to teach the Latine tongue, or to inſtruct children either in publick Schoole, or private houſe, but ſuch, as ſhall be allowed by the Ordinary of the place, under his hand and Seal, being found meet, as well for his learning, and dexterity in teaching, as for ſober, and honeſt converſation; and alſo for right underſtanding of Gods true Religion, (ſaving to all Patrons and Founders of Schooles the right of nomination.) And in what Pariſh ſoever, there is a Curate, which is a Maſter of Arts, or Bachellor of Arts, or is otherwiſe well able to teach youth, and will willingly ſo do, for the better increaſe of his living, and training of children in the principles of true Religion: We will, and ordain, that the licence to teach Grammar, ſhall be granted to none by the Ordinary of that place, but only to the ſaid Miniſter or Schoolemaſter. Pro<g ref="char:EOLhyphen"/>vided alwayes, that this conſtitution ſhall not extend to any Pariſh, where there is a publick Schoole founded already. In which caſe, we think it not meet, to allow any to teach Gram<g ref="char:EOLhyphen"/>mar, but only him, that is allowed for the ſaid publick Schoole.</p>
+            </div>
+            <div n="99" type="section">
+               <pb n="60" facs="tcp:46940:46"/>
+               <head>XCIX. <hi>The duty of Schoolemaſters.</hi>
+               </head>
+               <p>ALl Schoolemaſters, and Uſhers, ſhall endeavour to train up the children committed to their charge, in good learning, civility and piety. And in the latine tongue, they ſhall teach the Grammar, ſet forth in England by King <hi>Henry</hi> the eight, and ſo continned ever ſince; and none other. They ſhall alſo teach ſuch other books as ſhall be allowed, and appointed by the Bi<g ref="char:EOLhyphen"/>ſhop of the Dioceſs. Provided, that according to the priviledge granted to the Univerſity, near <hi>Duotin,</hi> Logick and Philoſophy ſhall not be taught in Grammar Schooles. Provided alſo, that none be admitted, or licenced to be a Schoolemaſter, or Uſher within this Kingdom, unleſs he firſt, by his ſubſcription, teſtifie his conſent to the two firſt canons. And alſo, that every Archbi<g ref="char:EOLhyphen"/>ſhop, and Biſhop, and other Ordinary (having Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>riſdiction) ſhall, by cenſures of the Church, reſpectively compel, all ſuch as are ſubject to their Juriſdiction, which do now teach Schoole, or hereafter ſhall preſume to teach Schoole, not having teſtified their conſent by ſubſcription as aforeſaid, to deſiſt from teaching of Schoole.</p>
+            </div>
+            <div n="100" type="section">
+               <head>C. <hi>The authority of this National Synod eſtabliſhed.</hi>
+               </head>
+               <p>THis ſacred Synod, being the repreſentative body of the Church of <hi>Ireland</hi> in the name of Chriſt, and by the Kings authority, lawfully aſſembled, doth pronounce and decree, that if any, within this Nation, ſhall deſpiſe and contemn the conſti<g ref="char:EOLhyphen"/>tutions thereof, (being by the ſaid Regal power ratified and confirmed;) or affirm, that none are to be ſubject thereunto, but ſuch as were preſent, and gave theirm voices unto them<g ref="char:punc">▪</g> he ſhall be excommunicated, and not reſtored, untill he ſhall pub<g ref="char:EOLhyphen"/>lickly revoke his error.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
